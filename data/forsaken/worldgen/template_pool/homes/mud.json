@@ -1,0 +1,68 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/mud/small1",
+        "processors": "forsaken:homes/mud",
+		    "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/mud/small2",
+        "processors": "forsaken:homes/mud",
+    		"projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/mud/small3",
+        "processors": "forsaken:homes/mud",
+	    	"projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/mud/medium1",
+        "processors": "forsaken:homes/mud",
+	    	"projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/mud/medium2",
+        "processors": "forsaken:homes/mud",
+	    	"projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/mud/medium3",
+        "processors": "forsaken:homes/mud",
+		    "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/mud/big1",
+        "processors": "forsaken:homes/mud",
+	    	"projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

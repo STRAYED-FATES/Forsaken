@@ -1,0 +1,50 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {	
+      "weight": 1,
+      "element": {
+        "location": "minecraft:empty",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/door/oak/1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/door/oak/2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/door/oak/3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+  {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/door/oak/4",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    }
+  ]
+}

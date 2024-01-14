@@ -1,0 +1,4282 @@
+{
+	"processors": [
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stone",
+						"probability": 0.025
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone_stairs",
+						"Properties": {
+							"shape": "straight",
+							"waterlogged": "false",
+							"facing": "north",
+							"half": "top"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stone",
+						"probability": 0.025
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone_stairs",
+						"Properties": {
+							"shape": "straight",
+							"waterlogged": "false",
+							"facing": "south",
+							"half": "top"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stone",
+						"probability": 0.025
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone_stairs",
+						"Properties": {
+							"shape": "straight",
+							"waterlogged": "false",
+							"facing": "west",
+							"half": "top"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stone",
+						"probability": 0.025
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone_stairs",
+						"Properties": {
+							"shape": "straight",
+							"waterlogged": "false",
+							"facing": "east",
+							"half": "top"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stone",
+						"probability": 0.025
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone_stairs",
+						"Properties": {
+							"shape": "straight",
+							"waterlogged": "false",
+							"facing": "north",
+							"half": "bottom"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stone",
+						"probability": 0.025
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone_stairs",
+						"Properties": {
+							"shape": "straight",
+							"waterlogged": "false",
+							"facing": "south",
+							"half": "bottom"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stone",
+						"probability": 0.025
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone_stairs",
+						"Properties": {
+							"shape": "straight",
+							"waterlogged": "false",
+							"facing": "west",
+							"half": "bottom"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stone",
+						"probability": 0.025
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone_stairs",
+						"Properties": {
+							"shape": "straight",
+							"waterlogged": "false",
+							"facing": "east",
+							"half": "bottom"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:block_match",
+						"block": "minecraft:stone"
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:smooth_stone",
+						"probability": 0.5
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone_slab",
+						"Properties": {
+							"type": "bottom",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:block_match",
+						"block": "minecraft:smooth_stone"
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:coal_block",
+						"probability": 0.25
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:campfire",
+						"probability": 0.25
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:cobblestone",
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_slab",
+							"Properties": {
+								"type": "top",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_slab",
+						"Properties": {
+							"type": "top",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_slab",
+							"Properties": {
+								"type": "bottom",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_slab",
+						"Properties": {
+							"type": "bottom",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_slab",
+							"Properties": {
+								"type": "double",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_slab",
+						"Properties": {
+							"type": "double",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_slab",
+							"Properties": {
+								"type": "top",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_slab",
+						"Properties": {
+							"type": "top",
+							"waterlogged": "true"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_slab",
+							"Properties": {
+								"type": "bottom",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_slab",
+						"Properties": {
+							"type": "bottom",
+							"waterlogged": "true"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_slab",
+							"Properties": {
+								"type": "double",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_slab",
+						"Properties": {
+							"type": "double",
+							"waterlogged": "true"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "straight",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "straight",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "straight",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "straight",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "straight",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "straight",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "straight",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "straight",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "straight",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "straight",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "straight",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "straight",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "straight",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "north",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "straight",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "south",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "straight",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "west",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "straight",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "east",
+							"shape": "straight"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "north",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "south",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "west",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "east",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "north",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "south",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "west",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "inner_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "east",
+							"shape": "inner_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "north",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "south",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "west",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "east",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "north",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "south",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "west",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "inner_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "east",
+							"shape": "inner_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "north",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "south",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "west",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "east",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "north",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "south",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "west",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "outer_left",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "east",
+							"shape": "outer_left"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "north",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "south",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "west",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "false",
+							"facing": "east",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "north",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "south",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "west",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "bottom",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "bottom",
+							"waterlogged": "true",
+							"facing": "east",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "north",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "north",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "south",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "south",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "west",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "west",
+							"shape": "outer_right"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cobblestone_stairs",
+							"Properties": {
+								"facing": "east",
+								"half": "top",
+								"shape": "outer_right",
+								"waterlogged": "true"
+							}
+						},
+						"probability": 0.4
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone_stairs",
+						"Properties": {
+							"half": "top",
+							"waterlogged": "true",
+							"facing": "east",
+							"shape": "outer_right"
+						}
+					}
+				}
+			]
+		}
+	]
+}
