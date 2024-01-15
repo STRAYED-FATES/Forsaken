@@ -1,107 +1,108 @@
 {
-  "processors": [
-    {
-      "processor_type": "minecraft:rule",
-      "rules": [
-        {
-          "location_predicate": {
-            "predicate_type": "minecraft:always_true"
-          },
-          "input_predicate": {
-            "predicate_type": "minecraft:random_block_match",
-            "block": "minecraft:packed_mud",
-            "probability": 0.25
-          },
-          "output_state": {
-            "Name": "minecraft:rooted_dirt"
-          }
-        },
-        {
-          "location_predicate": {
-            "predicate_type": "minecraft:always_true"
-          },
-          "input_predicate": {
-            "predicate_type": "minecraft:random_block_match",
-            "block": "minecraft:mud_bricks",
-            "probability": 0.25
-          },
-          "output_state": {
-            "Name": "minecraft:packed_mud"
-          }
-        }
-      ]
-    },
-    {
-      "processor_type": "minecraft:rule",
-      "rules": [
-        {
-          "location_predicate": {
-            "predicate_type": "minecraft:always_true"
-          },
-          "input_predicate": {
-            "predicate_type": "minecraft:random_block_match",
-            "block": "minecraft:jungle_trapdoor",
-            "probability": 0.375
-          },
-          "output_state": {
-            "Name": "minecraft:packed_mud"
-          }
-        },
-        {
-          "location_predicate": {
-            "predicate_type": "minecraft:always_true"
-          },
-          "input_predicate": {
-            "predicate_type": "minecraft:random_block_match",
-            "block": "minecraft:jungle_trapdoor",
-            "probability": 0.125
-          },
-          "output_state": {
-            "Name": "minecraft:rooted_dirt"
-          }
-        }
-      ]
-    },
-    {
-      "processor_type": "minecraft:rule",
-      "rules": [
-        {
-          "location_predicate": {
-            "predicate_type": "minecraft:always_true"
-          },
-          "input_predicate": {
-            "predicate_type": "minecraft:random_blockstate_match",
-            "block_state": {
-              "Name": "minecraft:mud_brick_slab",
-              "Properties": {
-                "type": "bottom"
-              }
-            },
-            "probability": 0.25
-          },
-          "output_state": {
-            "Name": "minecraft:air"
-          }
-        }
-      ]
-    },
-    {
-      "processor_type": "minecraft:rule",
-      "rules": [
-        {
-          "location_predicate": {
-            "predicate_type": "minecraft:always_true"
-          },
-          "input_predicate": {
-            "predicate_type": "minecraft:random_block_match",
-            "block": "minecraft:jungle_button",
-            "probability": 0.25
-          },
-          "output_state": {
-            "Name": "minecraft:air"
-          }
-        }
-      ]
-    }
-  ]
+	"processors": [
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:packed_mud",
+						"probability": 0.25
+					},
+					"output_state": {
+						"Name": "minecraft:rooted_dirt"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:mud_bricks",
+						"probability": 0.25
+					},
+					"output_state": {
+						"Name": "minecraft:packed_mud"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:jungle_trapdoor",
+						"probability": 0.375
+					},
+					"output_state": {
+						"Name": "minecraft:packed_mud"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:jungle_trapdoor",
+						"probability": 0.125
+					},
+					"output_state": {
+						"Name": "minecraft:rooted_dirt"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:mud_brick_slab",
+							"Properties": {
+								"type": "bottom",
+								"waterlogged": "false"
+							}
+						},
+						"probability": 0.25
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:jungle_button",
+						"probability": 0.25
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		}
+	]
 }

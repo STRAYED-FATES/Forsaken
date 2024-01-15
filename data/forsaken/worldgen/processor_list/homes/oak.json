@@ -125,7 +125,8 @@
 					"output_state": {
 						"Name": "minecraft:oak_slab",
 						"Properties": {
-							"type": "bottom"
+							"type": "bottom",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -149,7 +150,8 @@
 					"output_state": {
 						"Name": "minecraft:oak_slab",
 						"Properties": {
-							"type": "bottom"
+							"type": "bottom",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -173,7 +175,8 @@
 					"output_state": {
 						"Name": "minecraft:oak_slab",
 						"Properties": {
-							"type": "bottom"
+							"type": "bottom",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -197,7 +200,8 @@
 					"output_state": {
 						"Name": "minecraft:oak_slab",
 						"Properties": {
-							"type": "bottom"
+							"type": "bottom",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -305,7 +309,8 @@
 					"output_state": {
 						"Name": "minecraft:oak_slab",
 						"Properties": {
-							"type": "top"
+							"type": "top",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -329,7 +334,8 @@
 					"output_state": {
 						"Name": "minecraft:oak_slab",
 						"Properties": {
-							"type": "top"
+							"type": "top",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -436,7 +442,9 @@
 						"Name": "minecraft:cobblestone_stairs",
 						"Properties": {
 							"facing": "south",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -458,7 +466,9 @@
 						"Name": "minecraft:cobblestone_stairs",
 						"Properties": {
 							"facing": "north",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -480,7 +490,9 @@
 						"Name": "minecraft:cobblestone_stairs",
 						"Properties": {
 							"facing": "south",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -502,7 +514,9 @@
 						"Name": "minecraft:cobblestone_stairs",
 						"Properties": {
 							"facing": "north",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -524,7 +538,9 @@
 						"Name": "minecraft:cobblestone_stairs",
 						"Properties": {
 							"facing": "west",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -546,7 +562,9 @@
 						"Name": "minecraft:cobblestone_stairs",
 						"Properties": {
 							"facing": "east",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -568,7 +586,9 @@
 						"Name": "minecraft:cobblestone_stairs",
 						"Properties": {
 							"facing": "west",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -590,7 +610,9 @@
 						"Name": "minecraft:cobblestone_stairs",
 						"Properties": {
 							"facing": "east",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -633,7 +655,10 @@
 						"block": "minecraft:green_glazed_terracotta"
 					},
 					"output_state": {
-						"Name": "minecraft:grass_block"
+						"Name": "minecraft:grass_block",
+						"Properties": {
+							"snowy": "false"
+						}
 					}
 				}
 			]
@@ -659,7 +684,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "south",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -681,7 +708,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "north",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -703,7 +732,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "south",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -725,7 +756,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "north",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -747,7 +780,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "west",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -769,7 +804,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "east",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -791,7 +828,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "west",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -813,7 +852,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "east",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -951,7 +992,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "north",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -968,7 +1011,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "south",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -985,7 +1030,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "west",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -1002,7 +1049,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "east",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -1019,7 +1068,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "north",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -1036,7 +1087,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "south",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -1053,7 +1106,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "west",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -1070,7 +1125,9 @@
 						"Name": "minecraft:oak_stairs",
 						"Properties": {
 							"facing": "east",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -1086,7 +1143,8 @@
 					"output_state": {
 						"Name": "minecraft:oak_slab",
 						"Properties": {
-							"type": "top"
+							"type": "top",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -1102,7 +1160,8 @@
 					"output_state": {
 						"Name": "minecraft:oak_slab",
 						"Properties": {
-							"type": "bottom"
+							"type": "bottom",
+							"waterlogged": "false"
 						}
 					}
 				},
