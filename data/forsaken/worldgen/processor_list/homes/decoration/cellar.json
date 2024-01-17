@@ -172,7 +172,10 @@
 						"probability": 0.05
 					},
 					"output_state": {
-						"Name": "minecraft:smoker"
+						"Name": "minecraft:smoker",
+						"Properties": {
+							"lit": "false"
+						}
 					}
 				},
 				{
@@ -973,6 +976,49 @@
 					"input_predicate": {
 						"predicate_type": "minecraft:block_match",
 						"block": "minecraft:bone_block"
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:green_carpet",
+						"probability": 0.1
+					},
+					"output_state": {
+						"Name": "minecraft:frogspawn"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:green_carpet",
+						"probability": 0.1
+					},
+					"output_state": {
+						"Name": "minecraft:lily_pad"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:block_match",
+						"block": "minecraft:green_carpet"
 					},
 					"output_state": {
 						"Name": "minecraft:air"

@@ -2,10 +2,10 @@
   "fallback": "minecraft:empty",
   "elements": [
 	{	
-      "weight": 25,
+      "weight": 30,
       "element": {
-        "location": "minecraft:empty",
-        "processors": "minecraft:empty",
+        "location": "forsaken:homes/decoration/cellar/0",
+        "processors": "forsaken:homes/decoration/cellar",
 		    "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -230,6 +230,51 @@
           "weight": 1,
           "element": {
             "location": "forsaken:homes/decoration/cellar/25",
+            "processors": "forsaken:homes/decoration/cellar",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        },
+        {	
+            "weight": 1,
+            "element": {
+              "location": "forsaken:homes/decoration/cellar/26",
+              "processors": "forsaken:homes/decoration/cellar",
+              "projection": "rigid",
+              "element_type": "minecraft:single_pool_element"
+            }
+          },
+      {	
+          "weight": 1,
+          "element": {
+            "location": "forsaken:homes/decoration/cellar/27",
+            "processors": "forsaken:homes/decoration/cellar",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        },
+      {	
+          "weight": 1,
+          "element": {
+            "location": "forsaken:homes/decoration/cellar/28",
+            "processors": "forsaken:homes/decoration/cellar",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        },
+      {	
+          "weight": 1,
+          "element": {
+            "location": "forsaken:homes/decoration/cellar/29",
+            "processors": "forsaken:homes/decoration/cellar",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        },
+      {	
+          "weight": 1,
+          "element": {
+            "location": "forsaken:homes/decoration/cellar/30",
             "processors": "forsaken:homes/decoration/cellar",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"

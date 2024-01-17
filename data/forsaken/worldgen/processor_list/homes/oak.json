@@ -429,6 +429,66 @@
 						"predicate_type": "minecraft:always_true"
 					},
 					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:sand",
+						"probability": 0.5
+					},
+					"output_state": {
+						"Name": "minecraft:oak_planks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:block_match",
+						"block": "minecraft:sand"
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:gravel",
+						"probability": 0.5
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:block_match",
+						"block": "minecraft:gravel"
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
 						"predicate_type": "minecraft:random_blockstate_match",
 						"block_state": {
 							"Name": "minecraft:acacia_wood",

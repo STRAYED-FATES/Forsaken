@@ -10,21 +10,51 @@
 					"input_predicate": {
 						"predicate_type": "minecraft:random_blockstate_match",
 						"block_state": {
-							"Name": "minecraft:stripped_oak_wood",
+							"Name": "minecraft:cut_sandstone_slab",
 							"Properties": {
-								"axis": "x"
+								"type": "double",
+								"waterlogged": "false"
 							}
 						},
-						"probability": 0.125
+						"probability": 0.1
 					},
 					"output_state": {
-						"Name": "minecraft:sandstone_stairs",
+						"Name": "minecraft:cut_sandstone_slab",
 						"Properties": {
-							"facing": "south",
-							"half": "top",
-							"shape": "straight",
+							"type": "bottom",
 							"waterlogged": "false"
 						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:blockstate_match",
+						"block_state": {
+							"Name": "minecraft:cut_sandstone_slab",
+							"Properties": {
+								"waterlogged": "false",
+								"type": "double"
+							}
+						}
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"output_state": {
+						"Name": "minecraft:cut_sandstone"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:cut_sandstone",
+						"probability": 0.25
+					},
+					"output_state": {
+						"Name": "minecraft:smooth_sandstone"
 					}
 				},
 				{
@@ -34,189 +64,56 @@
 					"input_predicate": {
 						"predicate_type": "minecraft:random_blockstate_match",
 						"block_state": {
-							"Name": "minecraft:stripped_oak_wood",
+							"Name": "minecraft:cut_sandstone_slab",
 							"Properties": {
-								"axis": "x"
+								"type": "bottom",
+								"waterlogged": "false"
 							}
 						},
-						"probability": 0.125
+						"probability": 0.25
 					},
 					"output_state": {
-						"Name": "minecraft:sandstone_stairs",
+						"Name": "minecraft:smooth_sandstone_slab",
 						"Properties": {
-							"facing": "north",
-							"half": "top",
-							"shape": "straight",
+							"type": "bottom",
 							"waterlogged": "false"
 						}
 					}
-				},
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
 				{
 					"location_predicate": {
 						"predicate_type": "minecraft:always_true"
 					},
 					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:stripped_oak_wood",
-							"Properties": {
-								"axis": "x"
-							}
-						},
-						"probability": 0.125
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:sandstone_slab",
+						"probability": 0.25
 					},
 					"output_state": {
-						"Name": "minecraft:sandstone_stairs",
-						"Properties": {
-							"facing": "south",
-							"half": "bottom",
-							"shape": "straight",
-							"waterlogged": "false"
-						}
+						"Name": "minecraft:air"
 					}
-				},
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
 				{
 					"location_predicate": {
 						"predicate_type": "minecraft:always_true"
 					},
 					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:stripped_oak_wood",
-							"Properties": {
-								"axis": "x"
-							}
-						},
-						"probability": 0.125
-					},
-					"output_state": {
-						"Name": "minecraft:sandstone_stairs",
-						"Properties": {
-							"facing": "north",
-							"half": "bottom",
-							"shape": "straight",
-							"waterlogged": "false"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:stripped_oak_wood",
-							"Properties": {
-								"axis": "z"
-							}
-						},
-						"probability": 0.125
-					},
-					"output_state": {
-						"Name": "minecraft:sandstone_stairs",
-						"Properties": {
-							"facing": "west",
-							"half": "top",
-							"shape": "straight",
-							"waterlogged": "false"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:stripped_oak_wood",
-							"Properties": {
-								"axis": "z"
-							}
-						},
-						"probability": 0.125
-					},
-					"output_state": {
-						"Name": "minecraft:sandstone_stairs",
-						"Properties": {
-							"facing": "east",
-							"half": "top",
-							"shape": "straight",
-							"waterlogged": "false"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:stripped_oak_wood",
-							"Properties": {
-								"axis": "z"
-							}
-						},
-						"probability": 0.125
-					},
-					"output_state": {
-						"Name": "minecraft:sandstone_stairs",
-						"Properties": {
-							"facing": "west",
-							"half": "bottom",
-							"shape": "straight",
-							"waterlogged": "false"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:stripped_oak_wood",
-							"Properties": {
-								"axis": "z"
-							}
-						},
-						"probability": 0.125
-					},
-					"output_state": {
-						"Name": "minecraft:sandstone_stairs",
-						"Properties": {
-							"facing": "east",
-							"half": "bottom",
-							"shape": "straight",
-							"waterlogged": "false"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:stripped_oak_wood",
-							"Properties": {
-								"axis": "z"
-							}
-						},
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:chiseled_sandstone",
 						"probability": 0.5
 					},
 					"output_state": {
-						"Name": "minecraft:sandstone_stairs",
-						"Properties": {
-							"facing": "west",
-							"half": "top",
-							"shape": "straight",
-							"waterlogged": "false"
-						}
+						"Name": "minecraft:sandstone"
 					}
 				},
 				{
@@ -225,10 +122,10 @@
 					},
 					"input_predicate": {
 						"predicate_type": "minecraft:block_match",
-						"block": "minecraft:stripped_oak_wood"
+						"block": "minecraft:chiseled_sandstone"
 					},
 					"output_state": {
-						"Name": "minecraft:sandstone"
+						"Name": "minecraft:air"
 					}
 				}
 			]
@@ -399,6 +296,257 @@
 					},
 					"output_state": {
 						"Name": "minecraft:air"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:stripped_birch_wood",
+							"Properties": {
+								"axis": "x"
+							}
+						},
+						"probability": 0.125
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone_stairs",
+						"Properties": {
+							"facing": "south",
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:stripped_birch_wood",
+							"Properties": {
+								"axis": "x"
+							}
+						},
+						"probability": 0.125
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone_stairs",
+						"Properties": {
+							"facing": "north",
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:stripped_birch_wood",
+							"Properties": {
+								"axis": "x"
+							}
+						},
+						"probability": 0.125
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone_stairs",
+						"Properties": {
+							"facing": "south",
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:stripped_birch_wood",
+							"Properties": {
+								"axis": "x"
+							}
+						},
+						"probability": 0.125
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone_stairs",
+						"Properties": {
+							"facing": "north",
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:stripped_birch_wood",
+							"Properties": {
+								"axis": "z"
+							}
+						},
+						"probability": 0.125
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone_stairs",
+						"Properties": {
+							"facing": "west",
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:stripped_birch_wood",
+							"Properties": {
+								"axis": "z"
+							}
+						},
+						"probability": 0.125
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone_stairs",
+						"Properties": {
+							"facing": "east",
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:stripped_birch_wood",
+							"Properties": {
+								"axis": "z"
+							}
+						},
+						"probability": 0.125
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone_stairs",
+						"Properties": {
+							"facing": "west",
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:stripped_birch_wood",
+							"Properties": {
+								"axis": "z"
+							}
+						},
+						"probability": 0.125
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone_stairs",
+						"Properties": {
+							"facing": "east",
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:stripped_birch_wood",
+							"Properties": {
+								"axis": "y"
+							}
+						},
+						"probability": 0.5
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone_stairs",
+						"Properties": {
+							"facing": "north",
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_blockstate_match",
+						"block_state": {
+							"Name": "minecraft:stripped_birch_wood",
+							"Properties": {
+								"axis": "y"
+							}
+						},
+						"probability": 0.5
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:block_match",
+						"block": "minecraft:stripped_birch_wood"
+					},
+					"output_state": {
+						"Name": "minecraft:sandstone"
 					}
 				}
 			]
