@@ -8,6 +8,24 @@
 						"predicate_type": "minecraft:always_true"
 					},
 					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_trapdoor",
+						"probability": 0.2
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
 						"predicate_type": "minecraft:random_blockstate_match",
 						"block_state": {
 							"Name": "minecraft:cut_sandstone_slab",
@@ -146,7 +164,9 @@
 						"Name": "minecraft:sandstone_stairs",
 						"Properties": {
 							"facing": "north",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -163,7 +183,9 @@
 						"Name": "minecraft:sandstone_stairs",
 						"Properties": {
 							"facing": "south",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -180,7 +202,9 @@
 						"Name": "minecraft:sandstone_stairs",
 						"Properties": {
 							"facing": "west",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -197,7 +221,9 @@
 						"Name": "minecraft:sandstone_stairs",
 						"Properties": {
 							"facing": "east",
-							"half": "top"
+							"half": "top",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -214,7 +240,9 @@
 						"Name": "minecraft:sandstone_stairs",
 						"Properties": {
 							"facing": "north",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -231,7 +259,9 @@
 						"Name": "minecraft:sandstone_stairs",
 						"Properties": {
 							"facing": "south",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -248,7 +278,9 @@
 						"Name": "minecraft:sandstone_stairs",
 						"Properties": {
 							"facing": "west",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -265,7 +297,9 @@
 						"Name": "minecraft:sandstone_stairs",
 						"Properties": {
 							"facing": "east",
-							"half": "bottom"
+							"half": "bottom",
+							"shape": "straight",
+							"waterlogged": "false"
 						}
 					}
 				},
@@ -281,7 +315,8 @@
 					"output_state": {
 						"Name": "minecraft:sandstone_slab",
 						"Properties": {
-							"type": "bottom"
+							"type": "bottom",
+							"waterlogged": "false"
 						}
 					}
 				},
