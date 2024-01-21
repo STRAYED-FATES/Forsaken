@@ -7,7 +7,7 @@
         "location": "forsaken:homes/oak/small1",
         "processors": "forsaken:homes/oak",
 		    "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
   {	
@@ -16,7 +16,7 @@
         "location": "forsaken:homes/oak/small2",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -25,7 +25,7 @@
         "location": "forsaken:homes/oak/small3",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -34,7 +34,7 @@
         "location": "forsaken:homes/oak/medium1",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
     {	
@@ -43,7 +43,7 @@
         "location": "forsaken:homes/oak/medium2",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -52,7 +52,7 @@
         "location": "forsaken:homes/oak/medium3",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -61,7 +61,7 @@
         "location": "forsaken:homes/oak/medium4",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -70,7 +70,7 @@
         "location": "forsaken:homes/oak/medium5",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -79,7 +79,7 @@
         "location": "forsaken:homes/oak/big1",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -88,7 +88,7 @@
         "location": "forsaken:homes/oak/big2",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
     {	
@@ -97,7 +97,7 @@
           "location": "forsaken:homes/oak/big3",
           "processors": "forsaken:homes/oak",
           "projection": "rigid",
-          "element_type": "minecraft:legacy_single_pool_element"
+          "element_type": "minecraft:single_pool_element"
           }
       },
 	{	
@@ -106,7 +106,7 @@
         "location": "forsaken:homes/oak/small1_with_cellar",
         "processors": "forsaken:homes/oak",
 		    "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
   {	
@@ -115,7 +115,7 @@
         "location": "forsaken:homes/oak/small2_with_cellar",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -124,7 +124,7 @@
         "location": "forsaken:homes/oak/small3_with_cellar",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -133,7 +133,7 @@
         "location": "forsaken:homes/oak/medium1_with_cellar",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
     {	
@@ -142,7 +142,7 @@
         "location": "forsaken:homes/oak/medium2_with_cellar",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -151,7 +151,7 @@
         "location": "forsaken:homes/oak/medium3_with_cellar",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -160,7 +160,7 @@
         "location": "forsaken:homes/oak/medium4_with_cellar",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -169,7 +169,7 @@
         "location": "forsaken:homes/oak/medium5_with_cellar",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -178,7 +178,7 @@
         "location": "forsaken:homes/oak/big1_with_cellar",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -187,7 +187,7 @@
         "location": "forsaken:homes/oak/big2_with_cellar",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     },
   {	
@@ -196,7 +196,7 @@
         "location": "forsaken:homes/oak/big3_with_cellar",
         "processors": "forsaken:homes/oak",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
         }
     }
   ]
