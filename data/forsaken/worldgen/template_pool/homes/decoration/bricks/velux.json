@@ -2,7 +2,7 @@
   "fallback": "minecraft:empty",
   "elements": [
 	{	
-      "weight": 1,
+      "weight": 2,
       "element": {
         "location": "forsaken:homes/decoration/bricks/velux/1",
         "processors": "forsaken:homes/bricks",

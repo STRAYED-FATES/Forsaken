@@ -1,0 +1,47 @@
+{
+  "structures": [
+    {
+      "structure": "forsaken:homes/bricks",
+      "weight": 1
+    },
+    {
+      "structure": "forsaken:homes/desert",
+      "weight": 1
+    },
+    {
+      "structure": "forsaken:homes/mud",
+      "weight": 1
+    },
+    {
+      "structure": "forsaken:homes/oak",
+      "weight": 1
+    },
+    {
+      "structure": "forsaken:homes/oriental",
+      "weight": 1
+    },
+    {
+      "structure": "forsaken:homes/snowy",
+      "weight": 1
+    },
+    {
+      "structure": "forsaken:homes/spruce",
+      "weight": 1
+    },
+    {
+      "structure": "forsaken:homes/turf",
+      "weight": 1
+    },
+    {
+      "structure": "forsaken:homes/western",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 0.5,
+    "spacing": 5,
+    "separation": 2,
+    "salt": 1646207470
+  }
+}

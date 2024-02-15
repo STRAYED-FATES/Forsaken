@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+      {
+        "id": "terralith:alpine_highlands",
+        "required": false
+      },
+      {
+        "id": "terralith:highlands",
+        "required": false
+      },
+      {
+        "id": "terralith:steppe",
+        "required": false
+      }
+    ]
+  }
