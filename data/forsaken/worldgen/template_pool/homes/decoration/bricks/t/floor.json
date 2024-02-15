@@ -177,6 +177,15 @@
 		    "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/bricks/t/f/20",
+        "processors": "forsaken:homes/decoration/bricks",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
     }
   ]
 }

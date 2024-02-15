@@ -9,6 +9,24 @@
 					},
 					"input_predicate": {
 						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:brown_banner",
+						"probability": 0.5
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
 						"block": "minecraft:packed_mud",
 						"probability": 0.25
 					},
