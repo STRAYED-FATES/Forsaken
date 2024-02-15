@@ -1,0 +1,16 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {    
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "element_type": "minecraft:feature_pool_element",
+        "feature": {
+          "feature": "minecraft:patch_grass",
+          "placement": []
+        }
+      }
+    }
+  ]
+}

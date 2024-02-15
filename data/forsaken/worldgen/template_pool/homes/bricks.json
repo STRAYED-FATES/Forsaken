@@ -1,0 +1,86 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/bricks/small1",
+        "processors": "forsaken:homes/bricks",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+  {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/bricks/small2",
+        "processors": "forsaken:homes/bricks",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+  {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/bricks/small3",
+        "processors": "forsaken:homes/bricks",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+  {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/bricks/medium1",
+        "processors": "forsaken:homes/bricks",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/bricks/medium2",
+        "processors": "forsaken:homes/bricks",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+  {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/bricks/medium3",
+        "processors": "forsaken:homes/bricks",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+  {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/bricks/big1",
+        "processors": "forsaken:homes/bricks",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+  {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/bricks/big2",
+        "processors": "forsaken:homes/bricks",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {	
+        "weight": 1,
+        "element": {
+          "location": "forsaken:homes/bricks/big3",
+          "processors": "forsaken:homes/bricks",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+          }
+      }
+  ]
+}

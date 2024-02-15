@@ -2,12 +2,9 @@
   "fallback": "minecraft:empty",
   "elements": [
 	{	
-      "weight": 42,
+      "weight": 50,
       "element": {
-        "location": "forsaken:homes/decoration/oak/g/f/0",
-        "processors": "forsaken:homes/decoration/oak",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
+        "element_type": "minecraft:empty_pool_element"
       }
     },
 	{	
@@ -194,6 +191,42 @@
       "weight": 1,
       "element": {
         "location": "forsaken:homes/decoration/oak/g/f/21",
+        "processors": "forsaken:homes/decoration/oak",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/oak/g/f/22",
+        "processors": "forsaken:homes/decoration/oak",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/oak/g/f/23",
+        "processors": "forsaken:homes/decoration/oak",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/oak/g/f/24",
+        "processors": "forsaken:homes/decoration/oak",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/oak/g/f/25",
         "processors": "forsaken:homes/decoration/oak",
 		    "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

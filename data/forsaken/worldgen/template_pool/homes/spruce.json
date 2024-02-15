@@ -1,0 +1,86 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/spruce/small1",
+        "processors": "forsaken:homes/spruce",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/spruce/small2",
+        "processors": "forsaken:homes/spruce",
+    		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/spruce/small3",
+        "processors": "forsaken:homes/spruce",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/spruce/medium1",
+        "processors": "forsaken:homes/spruce",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/spruce/medium2",
+        "processors": "forsaken:homes/spruce",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/spruce/medium3",
+        "processors": "forsaken:homes/spruce",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/spruce/big1",
+        "processors": "forsaken:homes/spruce",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/spruce/big2",
+        "processors": "forsaken:homes/spruce",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/spruce/big3",
+        "processors": "forsaken:homes/spruce",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
