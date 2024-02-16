@@ -6,10 +6,7 @@
       "element": {
         "projection": "rigid",
         "element_type": "minecraft:feature_pool_element",
-        "feature": {
-          "feature": "minecraft:patch_grass",
-          "placement": []
-        }
+        "feature": "minecraft:patch_grass_normal"
       }
     }
   ]
