@@ -4,6 +4,7 @@
     {	
       "weight": 4,
       "element": {
+        "projection": "rigid",
         "element_type": "minecraft:empty_pool_element"
       }
     },
