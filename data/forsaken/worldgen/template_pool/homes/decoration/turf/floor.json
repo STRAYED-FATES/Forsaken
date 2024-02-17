@@ -1,0 +1,83 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+  {	
+      "weight": 25,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/turf/f/1",
+        "processors": "forsaken:homes/decoration/turf",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/turf/f/2",
+        "processors": "forsaken:homes/decoration/turf",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/turf/f/3",
+        "processors": "forsaken:homes/decoration/turf",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/turf/f/4",
+        "processors": "forsaken:homes/decoration/turf",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/turf/f/5",
+        "processors": "forsaken:homes/decoration/turf",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/turf/f/6",
+        "processors": "forsaken:homes/decoration/turf",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/turf/f/7",
+        "processors": "forsaken:homes/decoration/turf",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/turf/f/8",
+        "processors": "forsaken:homes/decoration/turf",
+		    "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
