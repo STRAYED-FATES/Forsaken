@@ -1,0 +1,57 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+		{
+			"rolls": 5,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 10,
+					"name": "minecraft:sand",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 10
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"name": "minecraft:sandstone",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 5
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "minecraft:suspicious_sand",
+					"functions": [
+						{
+							"function": "minecraft:set_loot_table",
+							"type": "minecraft:brushable_block",
+							"name": "forsaken:junk/sandy/archeology/food"
+						},
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 5
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
