@@ -81,6 +81,87 @@
           "projection": "rigid",
           "element_type": "minecraft:legacy_single_pool_element"
           }
-      }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "forsaken:homes/bricks/small1_with_cellar",
+          "processors": "forsaken:homes/bricks",
+          "projection": "rigid",
+          "element_type": "minecraft:legacy_single_pool_element"
+        }
+      },
+    {	
+        "weight": 1,
+        "element": {
+          "location": "forsaken:homes/bricks/small2_with_cellar",
+          "processors": "forsaken:homes/bricks",
+          "projection": "rigid",
+          "element_type": "minecraft:legacy_single_pool_element"
+          }
+      },
+    {	
+        "weight": 1,
+        "element": {
+          "location": "forsaken:homes/bricks/small3_with_cellar",
+          "processors": "forsaken:homes/bricks",
+          "projection": "rigid",
+          "element_type": "minecraft:legacy_single_pool_element"
+          }
+      },
+    {	
+        "weight": 1,
+        "element": {
+          "location": "forsaken:homes/bricks/medium1_with_cellar",
+          "processors": "forsaken:homes/bricks",
+          "projection": "rigid",
+          "element_type": "minecraft:legacy_single_pool_element"
+          }
+      },
+      {	
+        "weight": 1,
+        "element": {
+          "location": "forsaken:homes/bricks/medium2_with_cellar",
+          "processors": "forsaken:homes/bricks",
+          "projection": "rigid",
+          "element_type": "minecraft:legacy_single_pool_element"
+          }
+      },
+    {	
+        "weight": 1,
+        "element": {
+          "location": "forsaken:homes/bricks/medium3_with_cellar",
+          "processors": "forsaken:homes/bricks",
+          "projection": "rigid",
+          "element_type": "minecraft:legacy_single_pool_element"
+          }
+      },
+    {	
+        "weight": 1,
+        "element": {
+          "location": "forsaken:homes/bricks/big1_with_cellar",
+          "processors": "forsaken:homes/bricks",
+          "projection": "rigid",
+          "element_type": "minecraft:legacy_single_pool_element"
+          }
+      },
+    {	
+        "weight": 1,
+        "element": {
+          "location": "forsaken:homes/bricks/big2_with_cellar",
+          "processors": "forsaken:homes/bricks",
+          "projection": "rigid",
+          "element_type": "minecraft:legacy_single_pool_element"
+          }
+      },
+      {	
+          "weight": 1,
+          "element": {
+            "location": "forsaken:homes/bricks/big3_with_cellar",
+            "processors": "forsaken:homes/bricks",
+            "projection": "rigid",
+            "element_type": "minecraft:legacy_single_pool_element"
+            }
+        }
   ]
 }
