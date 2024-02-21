@@ -10,6 +10,412 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:barrel",
+                        "Properties": {
+                            "facing": "north",
+                            "open": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/food"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:barrel",
+                        "Properties": {
+                            "facing": "east",
+                            "open": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/food"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:barrel",
+                        "Properties": {
+                            "facing": "south",
+                            "open": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/food"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:barrel",
+                        "Properties": {
+                            "facing": "west",
+                            "open": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/food"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:barrel",
+                        "Properties": {
+                            "facing": "up",
+                            "open": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/food"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:barrel",
+                        "Properties": {
+                            "facing": "north",
+                            "open": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/drinks"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:barrel",
+                        "Properties": {
+                            "facing": "east",
+                            "open": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/drinks"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:barrel",
+                        "Properties": {
+                            "facing": "south",
+                            "open": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/drinks"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:barrel",
+                        "Properties": {
+                            "facing": "west",
+                            "open": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/drinks"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:barrel",
+                        "Properties": {
+                            "facing": "up",
+                            "open": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/drinks"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:chest",
+                        "Properties": {
+                            "type": "single",
+                            "facing": "north",
+                            "waterlogged": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/jewels"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:chest",
+                        "Properties": {
+                            "type": "single",
+                            "facing": "south",
+                            "waterlogged": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/jewels"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:chest",
+                        "Properties": {
+                            "type": "single",
+                            "facing": "west",
+                            "waterlogged": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/jewels"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:chest",
+                        "Properties": {
+                            "type": "single",
+                            "facing": "east",
+                            "waterlogged": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/jewels"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:chest",
+                        "Properties": {
+                            "type": "single",
+                            "facing": "north",
+                            "waterlogged": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/terracotta"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:chest",
+                        "Properties": {
+                            "type": "single",
+                            "facing": "south",
+                            "waterlogged": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/terracotta"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:chest",
+                        "Properties": {
+                            "type": "single",
+                            "facing": "west",
+                            "waterlogged": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/terracotta"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
+                        "probability": 0.0025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:chest",
+                        "Properties": {
+                            "type": "single",
+                            "facing": "east",
+                            "waterlogged": "false"
+                        }
+                    },
+                    "block_entity_modifier": {
+                        "type": "minecraft:append_loot",
+                        "loot_table": "forsaken:junk/sandy/terracotta"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:oak_wood",
                         "probability": 0.05
                     },
                     "output_state": {
@@ -62,163 +468,6 @@
                             "cracked": "false",
                             "facing": "north",
                             "waterlogged": "false"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.0125
-                    },
-                    "output_state": {
-                        "Name": "minecraft:chest",
-                        "Properties": {
-                            "type": "single",
-                            "facing": "north",
-                            "waterlogged": "false"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.0125
-                    },
-                    "output_state": {
-                        "Name": "minecraft:chest",
-                        "Properties": {
-                            "type": "single",
-                            "facing": "south",
-                            "waterlogged": "false"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.0125
-                    },
-                    "output_state": {
-                        "Name": "minecraft:chest",
-                        "Properties": {
-                            "type": "single",
-                            "facing": "west",
-                            "waterlogged": "false"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.0125
-                    },
-                    "output_state": {
-                        "Name": "minecraft:chest",
-                        "Properties": {
-                            "type": "single",
-                            "facing": "east",
-                            "waterlogged": "false"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.01
-                    },
-                    "output_state": {
-                        "Name": "minecraft:barrel",
-                        "Properties": {
-                            "facing": "north",
-                            "open": "false"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.01
-                    },
-                    "output_state": {
-                        "Name": "minecraft:barrel",
-                        "Properties": {
-                            "facing": "east",
-                            "open": "false"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.01
-                    },
-                    "output_state": {
-                        "Name": "minecraft:barrel",
-                        "Properties": {
-                            "facing": "south",
-                            "open": "false"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.01
-                    },
-                    "output_state": {
-                        "Name": "minecraft:barrel",
-                        "Properties": {
-                            "facing": "west",
-                            "open": "false"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.01
-                    },
-                    "output_state": {
-                        "Name": "minecraft:barrel",
-                        "Properties": {
-                            "facing": "up",
-                            "open": "false"
                         }
                     }
                 },

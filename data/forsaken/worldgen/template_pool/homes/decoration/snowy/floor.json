@@ -12,7 +12,7 @@
             "weight": 1,
             "element": {
                 "location": "forsaken:homes/decoration/snowy/f/1",
-                "processors": "minecraft:empty",
+                "processors": "forsaken:homes/decoration/snowy",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
             }
@@ -21,7 +21,7 @@
             "weight": 1,
             "element": {
                 "location": "forsaken:homes/decoration/snowy/f/2",
-                "processors": "minecraft:empty",
+                "processors": "forsaken:homes/decoration/snowy",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
             }
@@ -30,7 +30,7 @@
             "weight": 1,
             "element": {
                 "location": "forsaken:homes/decoration/snowy/f/3",
-                "processors": "minecraft:empty",
+                "processors": "forsaken:homes/decoration/snowy",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
             }
@@ -39,7 +39,7 @@
             "weight": 1,
             "element": {
                 "location": "forsaken:homes/decoration/snowy/f/4",
-                "processors": "minecraft:empty",
+                "processors": "forsaken:homes/decoration/snowy",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
             }
@@ -48,7 +48,7 @@
             "weight": 1,
             "element": {
                 "location": "forsaken:homes/decoration/snowy/f/5",
-                "processors": "minecraft:empty",
+                "processors": "forsaken:homes/decoration/snowy",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
             }
@@ -57,7 +57,16 @@
             "weight": 1,
             "element": {
                 "location": "forsaken:homes/decoration/snowy/f/6",
-                "processors": "minecraft:empty",
+                "processors": "forsaken:homes/decoration/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/snowy/f/7",
+                "processors": "forsaken:homes/decoration/snowy",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
             }

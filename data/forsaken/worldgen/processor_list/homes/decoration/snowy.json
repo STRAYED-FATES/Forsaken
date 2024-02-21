@@ -1,0 +1,690 @@
+{
+	"processors": [
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:barrel",
+						"Properties": {
+							"facing": "north",
+							"open": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/food/icy"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:barrel",
+						"Properties": {
+							"facing": "east",
+							"open": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/food/icy"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:barrel",
+						"Properties": {
+							"facing": "south",
+							"open": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/food/icy"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:barrel",
+						"Properties": {
+							"facing": "west",
+							"open": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/food/icy"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:barrel",
+						"Properties": {
+							"facing": "up",
+							"open": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/food/icy"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:barrel",
+						"Properties": {
+							"facing": "north",
+							"open": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/food/drinks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:barrel",
+						"Properties": {
+							"facing": "east",
+							"open": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/food/drinks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:barrel",
+						"Properties": {
+							"facing": "south",
+							"open": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/food/drinks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:barrel",
+						"Properties": {
+							"facing": "west",
+							"open": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/food/drinks"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:barrel",
+						"Properties": {
+							"facing": "up",
+							"open": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/food/drinks"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:chest",
+						"Properties": {
+							"type": "single",
+							"facing": "north",
+							"waterlogged": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/jewels"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:chest",
+						"Properties": {
+							"type": "single",
+							"facing": "south",
+							"waterlogged": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/jewels"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:chest",
+						"Properties": {
+							"type": "single",
+							"facing": "west",
+							"waterlogged": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/jewels"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:chest",
+						"Properties": {
+							"type": "single",
+							"facing": "east",
+							"waterlogged": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/jewels"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:chest",
+						"Properties": {
+							"type": "single",
+							"facing": "north",
+							"waterlogged": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/book"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:chest",
+						"Properties": {
+							"type": "single",
+							"facing": "south",
+							"waterlogged": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/book"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:chest",
+						"Properties": {
+							"type": "single",
+							"facing": "west",
+							"waterlogged": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/book"
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:oak_wood",
+						"probability": 0.0025
+					},
+					"output_state": {
+						"Name": "minecraft:chest",
+						"Properties": {
+							"type": "single",
+							"facing": "east",
+							"waterlogged": "false"
+						}
+					},
+					"block_entity_modifier": {
+						"type": "minecraft:append_loot",
+						"loot_table": "forsaken:junk/book"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:block_match",
+						"block": "minecraft:oak_wood"
+					},
+					"output_state": {
+						"Name": "minecraft:snow",
+						"Properties": {
+							"layers": "4"
+						}
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "0"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "1"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "2"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "3"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "4"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "5"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "6"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "7"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "8"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "9"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "10"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "11"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "12"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "13"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:bone_block",
+						"probability": 0.0066
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "14"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:block_match",
+						"block": "minecraft:bone_block"
+					},
+					"output_state": {
+						"Name": "minecraft:skeleton_skull",
+						"Properties": {
+							"rotation": "15"
+						}
+					}
+				}
+			]
+		}
+	]
+}

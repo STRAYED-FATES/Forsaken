@@ -18,71 +18,24 @@
                 }
             ]
         },
-        {
-            "processor_type": "minecraft:rule",
-            "rules": [
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:blockstate_match",
-                        "block_state": {
-                            "Name": "minecraft:spruce_log",
-                            "Properties": {
-                                "axis": "x"
-                            }
-                        }
-                    },
-                    "output_state": {
-                        "Name": "minecraft:stripped_spruce_log",
-                        "Properties": {
-                            "axis": "x"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:blockstate_match",
-                        "block_state": {
-                            "Name": "minecraft:spruce_log",
-                            "Properties": {
-                                "axis": "y"
-                            }
-                        }
-                    },
-                    "output_state": {
-                        "Name": "minecraft:stripped_spruce_log",
-                        "Properties": {
-                            "axis": "y"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:blockstate_match",
-                        "block_state": {
-                            "Name": "minecraft:spruce_log",
-                            "Properties": {
-                                "axis": "z"
-                            }
-                        }
-                    },
-                    "output_state": {
-                        "Name": "minecraft:stripped_spruce_log",
-                        "Properties": {
-                            "axis": "z"
-                        }
-                    }
-                }
-            ]
-        },
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:cobblestone",
+						"probability": 0.25
+					},
+					"output_state": {
+						"Name": "minecraft:mossy_cobblestone"
+					}
+				}
+			]
+		},
         {
             "processor_type": "minecraft:rule",
             "rules": [

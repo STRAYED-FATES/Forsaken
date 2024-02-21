@@ -9,6 +9,209 @@
                     },
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:red_terracotta",
+                        "probability": 0.025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:brick_stairs",
+                        "Properties": {
+                            "shape": "straight",
+                            "waterlogged": "false",
+                            "facing": "north",
+                            "half": "top"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:red_terracotta",
+                        "probability": 0.025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:brick_stairs",
+                        "Properties": {
+                            "shape": "straight",
+                            "waterlogged": "false",
+                            "facing": "south",
+                            "half": "top"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:red_terracotta",
+                        "probability": 0.025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:brick_stairs",
+                        "Properties": {
+                            "shape": "straight",
+                            "waterlogged": "false",
+                            "facing": "west",
+                            "half": "top"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:red_terracotta",
+                        "probability": 0.025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:brick_stairs",
+                        "Properties": {
+                            "shape": "straight",
+                            "waterlogged": "false",
+                            "facing": "east",
+                            "half": "top"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:red_terracotta",
+                        "probability": 0.025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:brick_stairs",
+                        "Properties": {
+                            "shape": "straight",
+                            "waterlogged": "false",
+                            "facing": "north",
+                            "half": "bottom"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:red_terracotta",
+                        "probability": 0.025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:brick_stairs",
+                        "Properties": {
+                            "shape": "straight",
+                            "waterlogged": "false",
+                            "facing": "south",
+                            "half": "bottom"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:red_terracotta",
+                        "probability": 0.025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:brick_stairs",
+                        "Properties": {
+                            "shape": "straight",
+                            "waterlogged": "false",
+                            "facing": "west",
+                            "half": "bottom"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:red_terracotta",
+                        "probability": 0.025
+                    },
+                    "output_state": {
+                        "Name": "minecraft:brick_stairs",
+                        "Properties": {
+                            "shape": "straight",
+                            "waterlogged": "false",
+                            "facing": "east",
+                            "half": "bottom"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:block_match",
+                        "block": "minecraft:red_terracotta"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:bricks"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:mangrove_planks",
+                        "probability": 0.5
+                    },
+                    "output_state": {
+                        "Name": "minecraft:brick_slab",
+                        "Properties": {
+                            "type": "bottom",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:block_match",
+                        "block": "minecraft:mangrove_planks"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:bricks"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:stone",
                         "probability": 0.025
                     },
@@ -212,7 +415,7 @@
                     },
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:coal_block",
+                        "block": "minecraft:grass_block",
                         "probability": 0.25
                     },
                     "output_state": {

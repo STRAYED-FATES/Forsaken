@@ -167,7 +167,7 @@
                     },
                     "block_entity_modifier": {
                         "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/food/plains"
+                        "loot_table": "forsaken:junk/food/icy"
                     }
                 },
                 {
@@ -188,7 +188,7 @@
                     },
                     "block_entity_modifier": {
                         "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/food/plains"
+                        "loot_table": "forsaken:junk/food/icy"
                     }
                 },
                 {
@@ -209,7 +209,7 @@
                     },
                     "block_entity_modifier": {
                         "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/food/plains"
+                        "loot_table": "forsaken:junk/food/icy"
                     }
                 },
                 {
@@ -230,7 +230,7 @@
                     },
                     "block_entity_modifier": {
                         "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/food/plains"
+                        "loot_table": "forsaken:junk/food/icy"
                     }
                 },
                 {
@@ -251,7 +251,7 @@
                     },
                     "block_entity_modifier": {
                         "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/food/plains"
+                        "loot_table": "forsaken:junk/food/icy"
                     }
                 }
             ]
@@ -658,94 +658,6 @@
                         "probability": 0.0025
                     },
                     "output_state": {
-                        "Name": "minecraft:chest",
-                        "Properties": {
-                            "type": "single",
-                            "facing": "north",
-                            "waterlogged": "false"
-                        }
-                    },
-                    "block_entity_modifier": {
-                        "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/overgrown"
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.0025
-                    },
-                    "output_state": {
-                        "Name": "minecraft:chest",
-                        "Properties": {
-                            "type": "single",
-                            "facing": "south",
-                            "waterlogged": "false"
-                        }
-                    },
-                    "block_entity_modifier": {
-                        "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/overgrown"
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.0025
-                    },
-                    "output_state": {
-                        "Name": "minecraft:chest",
-                        "Properties": {
-                            "type": "single",
-                            "facing": "west",
-                            "waterlogged": "false"
-                        }
-                    },
-                    "block_entity_modifier": {
-                        "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/overgrown"
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.0025
-                    },
-                    "output_state": {
-                        "Name": "minecraft:chest",
-                        "Properties": {
-                            "type": "single",
-                            "facing": "east",
-                            "waterlogged": "false"
-                        }
-                    },
-                    "block_entity_modifier": {
-                        "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/overgrown"
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:oak_wood",
-                        "probability": 0.0025
-                    },
-                    "output_state": {
                         "Name": "minecraft:barrel",
                         "Properties": {
                             "facing": "north",
@@ -754,7 +666,7 @@
                     },
                     "block_entity_modifier": {
                         "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/overgrown"
+                        "loot_table": "forsaken:valuable/forge"
                     }
                 },
                 {
@@ -775,7 +687,7 @@
                     },
                     "block_entity_modifier": {
                         "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/overgrown"
+                        "loot_table": "forsaken:valuable/forge"
                     }
                 },
                 {
@@ -796,7 +708,7 @@
                     },
                     "block_entity_modifier": {
                         "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/overgrown"
+                        "loot_table": "forsaken:valuable/forge"
                     }
                 },
                 {
@@ -817,7 +729,7 @@
                     },
                     "block_entity_modifier": {
                         "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/overgrown"
+                        "loot_table": "forsaken:valuable/forge"
                     }
                 },
                 {
@@ -838,7 +750,7 @@
                     },
                     "block_entity_modifier": {
                         "type": "minecraft:append_loot",
-                        "loot_table": "forsaken:junk/overgrown"
+                        "loot_table": "forsaken:valuable/forge"
                     }
                 }
             ]
