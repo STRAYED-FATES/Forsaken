@@ -1,13 +1,13 @@
 {
-  "replace": false,
-  "values": [
-    {
-      "id": "#minecraft:is_badlands",
-      "required": false
-    },
-    {
-      "id": "#c:badlands",
-      "required": false
-    }
-  ]
+    "replace": false,
+    "values": [
+        {
+            "id": "#minecraft:is_badlands",
+            "required": false
+        },
+        {
+            "id": "#c:badlands",
+            "required": false
+        }
+    ]
 }

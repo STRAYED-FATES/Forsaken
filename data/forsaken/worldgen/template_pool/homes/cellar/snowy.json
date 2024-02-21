@@ -1,0 +1,104 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/small1",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/small2",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/small3",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/small4",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/medium1",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/medium2",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/medium3",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/medium4",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/medium5",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/big1",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/big2",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

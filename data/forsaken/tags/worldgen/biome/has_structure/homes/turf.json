@@ -1,18 +1,18 @@
 {
     "replace": false,
     "values": [
-      "minecraft:plains",
-      {
-        "id": "terralith:alpine_highlands",
-        "required": false
-      },
-      {
-        "id": "terralith:highlands",
-        "required": false
-      },
-      {
-        "id": "terralith:steppe",
-        "required": false
-      }
+        "minecraft:plains",
+        {
+            "id": "terralith:alpine_highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:steppe",
+            "required": false
+        }
     ]
-  }
+}

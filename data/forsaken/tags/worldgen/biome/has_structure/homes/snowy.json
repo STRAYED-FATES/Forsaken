@@ -1,11 +1,11 @@
 {
     "replace": false,
     "values": [
-      "minecraft:snowy_plains",
-      "minecraft:snowy_taiga",
-      {
-        "id": "#c:snowy_plains",
-        "required": false
-      }
+        "minecraft:snowy_plains",
+        "minecraft:snowy_taiga",
+        {
+            "id": "#c:snowy_plains",
+            "required": false
+        }
     ]
-  }
+}

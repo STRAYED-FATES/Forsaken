@@ -1,237 +1,237 @@
 {
-  "fallback": "minecraft:empty",
-  "elements": [
-	{	
-      "weight": 150,
-      "element": {
-        "projection": "rigid",
-        "element_type": "minecraft:empty_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/1",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/2",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/3",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/4",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/5",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/6",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/7",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/8",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/9",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/10",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/11",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/12",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/13",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/14",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/15",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/16",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/17",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/18",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/19",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/20",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/21",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/22",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/23",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/24",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/bricks/g/f/25",
-        "processors": "forsaken:homes/decoration/bricks",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    }
-  ]
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 150,
+            "element": {
+                "projection": "rigid",
+                "element_type": "minecraft:empty_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/1",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/2",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/3",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/4",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/5",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/6",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/7",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/8",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/9",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/10",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/11",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/12",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/13",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/14",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/15",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/16",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/17",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/18",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/19",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/20",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/21",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/22",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/23",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/24",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/bricks/g/f/25",
+                "processors": "forsaken:homes/decoration/bricks",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
 }

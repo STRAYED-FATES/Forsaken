@@ -1,146 +1,146 @@
 {
-  "fallback": "minecraft:empty",
-  "elements": [
-  {	
-      "weight": 150,
-      "element": {
-        "element_type": "minecraft:empty_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/1",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/2",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/3",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/4",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/5",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/6",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/7",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/8",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/9",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/10",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/11",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/12",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/13",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/14",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/oriental/f/15",
-        "processors": "forsaken:homes/decoration/oriental",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    }
-  ]
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 150,
+            "element": {
+                "element_type": "minecraft:empty_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/1",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/2",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/3",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/4",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/5",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/6",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/7",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/8",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/9",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/10",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/11",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/12",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/13",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/14",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oriental/f/15",
+                "processors": "forsaken:homes/decoration/oriental",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
 }

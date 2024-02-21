@@ -1,102 +1,102 @@
 {
-  "fallback": "minecraft:empty",
-  "elements": [
-  {	
-      "weight": 150,
-      "element": {
-        "projection": "rigid",
-        "element_type": "minecraft:empty_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/mud/f/1",
-        "processors": "forsaken:homes/decoration/mud",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/mud/f/2",
-        "processors": "forsaken:homes/decoration/mud",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/mud/f/3",
-        "processors": "forsaken:homes/decoration/mud",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/mud/f/4",
-        "processors": "forsaken:homes/decoration/mud",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/mud/f/5",
-        "processors": "forsaken:homes/decoration/mud",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/mud/f/6",
-        "processors": "forsaken:homes/decoration/mud",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/mud/f/7",
-        "processors": "forsaken:homes/decoration/mud",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/mud/f/8",
-        "processors": "forsaken:homes/decoration/mud",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/mud/f/9",
-        "processors": "forsaken:homes/decoration/mud",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/decoration/mud/f/10",
-        "processors": "forsaken:homes/decoration/mud",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    }
-  ]
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 150,
+            "element": {
+                "projection": "rigid",
+                "element_type": "minecraft:empty_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/mud/f/1",
+                "processors": "forsaken:homes/decoration/mud",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/mud/f/2",
+                "processors": "forsaken:homes/decoration/mud",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/mud/f/3",
+                "processors": "forsaken:homes/decoration/mud",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/mud/f/4",
+                "processors": "forsaken:homes/decoration/mud",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/mud/f/5",
+                "processors": "forsaken:homes/decoration/mud",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/mud/f/6",
+                "processors": "forsaken:homes/decoration/mud",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/mud/f/7",
+                "processors": "forsaken:homes/decoration/mud",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/mud/f/8",
+                "processors": "forsaken:homes/decoration/mud",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/mud/f/9",
+                "processors": "forsaken:homes/decoration/mud",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/mud/f/10",
+                "processors": "forsaken:homes/decoration/mud",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
 }

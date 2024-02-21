@@ -1,360 +1,360 @@
 {
-	"processors": [
-		{
-			"processor_type": "minecraft:rule",
-			"rules": [
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_block_match",
-						"block": "minecraft:cobweb",
-						"probability": 0.9
-					},
-					"output_state": {
-						"Name": "minecraft:air"
-					}
-				}
-			]
-		},
-		{
-			"processor_type": "minecraft:rule",
-			"rules": [
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:blockstate_match",
-						"block_state": {
-							"Name": "minecraft:spruce_log",
-							"Properties": {
-								"axis": "x"
-							}
-						}
-					},
-					"output_state": {
-						"Name": "minecraft:stripped_spruce_log",
-						"Properties": {
-							"axis": "x"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:blockstate_match",
-						"block_state": {
-							"Name": "minecraft:spruce_log",
-							"Properties": {
-								"axis": "y"
-							}
-						}
-					},
-					"output_state": {
-						"Name": "minecraft:stripped_spruce_log",
-						"Properties": {
-							"axis": "y"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:blockstate_match",
-						"block_state": {
-							"Name": "minecraft:spruce_log",
-							"Properties": {
-								"axis": "z"
-							}
-						}
-					},
-					"output_state": {
-						"Name": "minecraft:stripped_spruce_log",
-						"Properties": {
-							"axis": "z"
-						}
-					}
-				}
-			]
-		},
-		{
-			"processor_type": "minecraft:rule",
-			"rules": [
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_block_match",
-						"block": "minecraft:stripped_spruce_log",
-						"probability": 0.083333
-					},
-					"output_state": {
-						"Name": "minecraft:stripped_spruce_wood",
-						"Properties": {
-							"axis": "x"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_block_match",
-						"block": "minecraft:stripped_spruce_log",
-						"probability": 0.083333
-					},
-					"output_state": {
-						"Name": "minecraft:stripped_spruce_wood",
-						"Properties": {
-							"axis": "y"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_block_match",
-						"block": "minecraft:stripped_spruce_log",
-						"probability": 0.083333
-					},
-					"output_state": {
-						"Name": "minecraft:stripped_spruce_wood",
-						"Properties": {
-							"axis": "z"
-						}
-					}
-				}
-			]
-		},
-		{
-			"processor_type": "minecraft:rule",
-			"rules": [
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_block_match",
-						"block": "minecraft:spruce_slab",
-						"probability": 0.25
-					},
-					"output_state": {
-						"Name": "minecraft:air"
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_block_match",
-						"block": "minecraft:spruce_trapdoor",
-						"probability": 0.25
-					},
-					"output_state": {
-						"Name": "minecraft:air"
-					}
-				}
-			]
-		},
-		{
-			"processor_type": "minecraft:rule",
-			"rules": [
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_block_match",
-						"block": "minecraft:deepslate_tiles",
-						"probability": 0.125
-					},
-					"output_state": {
-						"Name": "minecraft:air"
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_block_match",
-						"block": "minecraft:deepslate_tiles",
-						"probability": 0.125
-					},
-					"output_state": {
-						"Name": "minecraft:moss_block"
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_block_match",
-						"block": "minecraft:deepslate_tiles",
-						"probability": 0.125
-					},
-					"output_state": {
-						"Name": "minecraft:cobbled_deepslate"
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:deepslate_tile_slab",
-							"Properties": {
-								"type": "top",
-								"waterlogged": "false"
-							}
-						},
-						"probability": 0.25
-					},
-					"output_state": {
-						"Name": "minecraft:air"
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:deepslate_tile_slab",
-							"Properties": {
-								"type": "top",
-								"waterlogged": "false"
-							}
-						},
-						"probability": 0.25
-					},
-					"output_state": {
-						"Name": "minecraft:cobbled_deepslate_slab",
-						"Properties": {
-							"type": "top",
-							"waterlogged": "false"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:deepslate_tile_slab",
-							"Properties": {
-								"type": "top",
-								"waterlogged": "false"
-							}
-						},
-						"probability": 0.25
-					},
-					"output_state": {
-						"Name": "minecraft:moss_block"
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:deepslate_tile_slab",
-							"Properties": {
-								"type": "bottom",
-								"waterlogged": "false"
-							}
-						},
-						"probability": 0.125
-					},
-					"output_state": {
-						"Name": "minecraft:air"
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:deepslate_tile_slab",
-							"Properties": {
-								"type": "double",
-								"waterlogged": "false"
-							}
-						},
-						"probability": 0.25
-					},
-					"output_state": {
-						"Name": "minecraft:moss_block"
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:deepslate_tile_slab",
-							"Properties": {
-								"type": "double",
-								"waterlogged": "false"
-							}
-						},
-						"probability": 0.125
-					},
-					"output_state": {
-						"Name": "minecraft:deepslate_tile_slab",
-						"Properties": {
-							"type": "bottom",
-							"waterlogged": "false"
-						}
-					}
-				},
-				{
-					"location_predicate": {
-						"predicate_type": "minecraft:always_true"
-					},
-					"input_predicate": {
-						"predicate_type": "minecraft:random_blockstate_match",
-						"block_state": {
-							"Name": "minecraft:deepslate_tile_slab",
-							"Properties": {
-								"type": "bottom",
-								"waterlogged": "false"
-							}
-						},
-						"probability": 0.0625
-					},
-					"output_state": {
-						"Name": "minecraft:cobbled_deepslate_slab",
-						"Properties": {
-							"type": "bottom",
-							"waterlogged": "false"
-						}
-					}
-				}
-			]
-		}
-	]
+    "processors": [
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:cobweb",
+                        "probability": 0.9
+                    },
+                    "output_state": {
+                        "Name": "minecraft:air"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:spruce_log",
+                            "Properties": {
+                                "axis": "x"
+                            }
+                        }
+                    },
+                    "output_state": {
+                        "Name": "minecraft:stripped_spruce_log",
+                        "Properties": {
+                            "axis": "x"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:spruce_log",
+                            "Properties": {
+                                "axis": "y"
+                            }
+                        }
+                    },
+                    "output_state": {
+                        "Name": "minecraft:stripped_spruce_log",
+                        "Properties": {
+                            "axis": "y"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:spruce_log",
+                            "Properties": {
+                                "axis": "z"
+                            }
+                        }
+                    },
+                    "output_state": {
+                        "Name": "minecraft:stripped_spruce_log",
+                        "Properties": {
+                            "axis": "z"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:stripped_spruce_log",
+                        "probability": 0.083333
+                    },
+                    "output_state": {
+                        "Name": "minecraft:stripped_spruce_wood",
+                        "Properties": {
+                            "axis": "x"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:stripped_spruce_log",
+                        "probability": 0.083333
+                    },
+                    "output_state": {
+                        "Name": "minecraft:stripped_spruce_wood",
+                        "Properties": {
+                            "axis": "y"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:stripped_spruce_log",
+                        "probability": 0.083333
+                    },
+                    "output_state": {
+                        "Name": "minecraft:stripped_spruce_wood",
+                        "Properties": {
+                            "axis": "z"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:spruce_slab",
+                        "probability": 0.25
+                    },
+                    "output_state": {
+                        "Name": "minecraft:air"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:spruce_trapdoor",
+                        "probability": 0.25
+                    },
+                    "output_state": {
+                        "Name": "minecraft:air"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:deepslate_tiles",
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:air"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:deepslate_tiles",
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:moss_block"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:deepslate_tiles",
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobbled_deepslate"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:deepslate_tile_slab",
+                            "Properties": {
+                                "type": "top",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.25
+                    },
+                    "output_state": {
+                        "Name": "minecraft:air"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:deepslate_tile_slab",
+                            "Properties": {
+                                "type": "top",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.25
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobbled_deepslate_slab",
+                        "Properties": {
+                            "type": "top",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:deepslate_tile_slab",
+                            "Properties": {
+                                "type": "top",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.25
+                    },
+                    "output_state": {
+                        "Name": "minecraft:moss_block"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:deepslate_tile_slab",
+                            "Properties": {
+                                "type": "bottom",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:air"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:deepslate_tile_slab",
+                            "Properties": {
+                                "type": "double",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.25
+                    },
+                    "output_state": {
+                        "Name": "minecraft:moss_block"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:deepslate_tile_slab",
+                            "Properties": {
+                                "type": "double",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:deepslate_tile_slab",
+                        "Properties": {
+                            "type": "bottom",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:deepslate_tile_slab",
+                            "Properties": {
+                                "type": "bottom",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.0625
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobbled_deepslate_slab",
+                        "Properties": {
+                            "type": "bottom",
+                            "waterlogged": "false"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
 }

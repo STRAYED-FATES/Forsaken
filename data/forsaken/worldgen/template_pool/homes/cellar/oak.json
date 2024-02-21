@@ -1,104 +1,104 @@
 {
-  "fallback": "minecraft:empty",
-  "elements": [
-	{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/small1",
-        "processors": "forsaken:homes/cellar/oak",
-		    "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-  {	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/small2",
-        "processors": "forsaken:homes/cellar/oak",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/small1",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/small2",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/small3",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/small4",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/medium1",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/medium2",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/medium3",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/medium4",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/medium5",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/big1",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/big2",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
         }
-    },
-  {	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/small3",
-        "processors": "forsaken:homes/cellar/oak",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-        }
-    },
-  {	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/small4",
-        "processors": "forsaken:homes/cellar/oak",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-        }
-    },
-  {	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/medium1",
-        "processors": "forsaken:homes/cellar/oak",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-        }
-    },
-    {	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/medium2",
-        "processors": "forsaken:homes/cellar/oak",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-        }
-    },
-  {	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/medium3",
-        "processors": "forsaken:homes/cellar/oak",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-        }
-    },
-  {	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/medium4",
-        "processors": "forsaken:homes/cellar/oak",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-        }
-    },
-  {	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/medium5",
-        "processors": "forsaken:homes/cellar/oak",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-        }
-    },
-{	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/big1",
-        "processors": "forsaken:homes/cellar/oak",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-        }
-    },
-  {	
-      "weight": 1,
-      "element": {
-        "location": "forsaken:homes/cellar/oak/big2",
-        "processors": "forsaken:homes/cellar/oak",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-        }
-    }
-  ]
+    ]
 }
