@@ -1,0 +1,129 @@
+{
+	"processors": [
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:cobweb",
+						"probability": 0.9
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:mossy_cobblestone",
+						"probability": 0.1
+					},
+					"output_state": {
+						"Name": "minecraft:cobblestone"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stripped_dark_oak_log",
+						"probability": 0.083333
+					},
+					"output_state": {
+						"Name": "minecraft:stripped_dark_oak_wood",
+						"Properties": {
+							"axis": "x"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stripped_dark_oak_log",
+						"probability": 0.083333
+					},
+					"output_state": {
+						"Name": "minecraft:stripped_dark_oak_wood",
+						"Properties": {
+							"axis": "y"
+						}
+					}
+				},
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:stripped_dark_oak_log",
+						"probability": 0.083333
+					},
+					"output_state": {
+						"Name": "minecraft:stripped_dark_oak_wood",
+						"Properties": {
+							"axis": "z"
+						}
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:moss_carpet",
+						"probability": 0.25
+					},
+					"output_state": {
+						"Name": "minecraft:short_grass"
+					}
+				}
+			]
+		},
+		{
+			"processor_type": "minecraft:rule",
+			"rules": [
+				{
+					"location_predicate": {
+						"predicate_type": "minecraft:always_true"
+					},
+					"input_predicate": {
+						"predicate_type": "minecraft:random_block_match",
+						"block": "minecraft:vine",
+						"probability": 0.25
+					},
+					"output_state": {
+						"Name": "minecraft:air"
+					}
+				}
+			]
+		}
+	]
+}

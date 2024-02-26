@@ -44,7 +44,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -65,7 +65,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -86,7 +86,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -107,7 +107,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -128,7 +128,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -154,7 +154,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -175,7 +175,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -196,7 +196,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -217,7 +217,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -238,7 +238,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -264,7 +264,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -286,7 +286,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -308,7 +308,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -330,7 +330,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -357,7 +357,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -379,7 +379,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -401,7 +401,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -423,7 +423,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -450,7 +450,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -472,7 +472,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -494,7 +494,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -516,7 +516,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:chest",
@@ -538,7 +538,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -559,7 +559,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -580,7 +580,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -601,7 +601,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
@@ -622,7 +622,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:oak_wood",
-                        "probability": 0.0025
+                        "probability": 0.0075
                     },
                     "output_state": {
                         "Name": "minecraft:barrel",
