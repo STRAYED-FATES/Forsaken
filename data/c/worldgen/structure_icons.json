@@ -1,0 +1,29 @@
+{
+    "forsaken:homes/bricks": {
+        "item": "minecraft:bricks"
+    },
+    "forsaken:homes/desert": {
+        "item": "minecraft:sandstone_stairs"
+    },
+    "forsaken:homes/mud": {
+        "item": "minecraft:packed_mud"
+    },
+    "forsaken:homes/oak": {
+        "item": "minecraft:spruce_stairs"
+    },
+    "forsaken:homes/oriental": {
+        "item": "minecraft:pink_petals"
+    },
+    "forsaken:homes/snowy": {
+        "item": "minecraft:snowball"
+    },
+    "forsaken:homes/spruce": {
+        "item": "minecraft:sweet_berries"
+    },
+    "forsaken:homes/turf": {
+        "item": "minecraft:tall_grass"
+    },
+    "forsaken:homes/western": {
+        "item": "minecraft:lead"
+    }
+}
