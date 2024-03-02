@@ -8,6 +8,10 @@
         {
             "id": "#c:badlands",
             "required": false
+        },
+        {
+            "id": "terralith:snowy_badlands",
+            "required": false
         }
     ]
 }
