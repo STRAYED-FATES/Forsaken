@@ -121,22 +121,6 @@
                         "predicate_type": "minecraft:always_true"
                     },
                     "input_predicate": {
-                        "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:green_stained_glass",
-                        "probability": 0.1
-                    },
-                    "output_state": {
-                        "Name": "minecraft:hanging_roots",
-                        "Properties": {
-                            "waterlogged": "false"
-                        }
-                    }
-                },
-                {
-                    "location_predicate": {
-                        "predicate_type": "minecraft:always_true"
-                    },
-                    "input_predicate": {
                         "predicate_type": "minecraft:block_match",
                         "block": "minecraft:green_stained_glass"
                     },
