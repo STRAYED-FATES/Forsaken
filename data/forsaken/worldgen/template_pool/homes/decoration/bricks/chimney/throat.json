@@ -1,0 +1,29 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {	
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/bricks/chimney/cobble/throat1",
+        "processors": "forsaken:homes/bricks",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "location": "forsaken:homes/decoration/bricks/chimney/cobble/throat2",
+        "processors": "forsaken:homes/bricks",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+        }
+    }
+  ]
+}

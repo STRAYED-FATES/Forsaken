@@ -673,6 +673,215 @@
                     }
                 }
             ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:acacia_wood",
+                            "Properties": {
+                                "axis": "x"
+                            }
+                        },
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobblestone_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "top",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:acacia_wood",
+                            "Properties": {
+                                "axis": "x"
+                            }
+                        },
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobblestone_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "top",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:acacia_wood",
+                            "Properties": {
+                                "axis": "x"
+                            }
+                        },
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobblestone_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:acacia_wood",
+                            "Properties": {
+                                "axis": "x"
+                            }
+                        },
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobblestone_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:acacia_wood",
+                            "Properties": {
+                                "axis": "z"
+                            }
+                        },
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobblestone_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "top",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:acacia_wood",
+                            "Properties": {
+                                "axis": "z"
+                            }
+                        },
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobblestone_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "top",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:acacia_wood",
+                            "Properties": {
+                                "axis": "z"
+                            }
+                        },
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobblestone_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:acacia_wood",
+                            "Properties": {
+                                "axis": "z"
+                            }
+                        },
+                        "probability": 0.125
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobblestone_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:block_match",
+                        "block": "minecraft:acacia_wood"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:cobblestone"
+                    }
+                }
+            ]
         }
     ]
 }
