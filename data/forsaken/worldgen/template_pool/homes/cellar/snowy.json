@@ -4,6 +4,15 @@
         {
             "weight": 1,
             "element": {
+                "location": "forsaken:homes/cellar/snowy/ladder",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
                 "location": "forsaken:homes/cellar/snowy/small1",
                 "processors": "forsaken:homes/cellar/snowy",
                 "projection": "rigid",
@@ -85,6 +94,15 @@
         {
             "weight": 1,
             "element": {
+                "location": "forsaken:homes/cellar/snowy/medium6",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
                 "location": "forsaken:homes/cellar/snowy/big1",
                 "processors": "forsaken:homes/cellar/snowy",
                 "projection": "rigid",
@@ -95,6 +113,24 @@
             "weight": 1,
             "element": {
                 "location": "forsaken:homes/cellar/snowy/big2",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/big3",
+                "processors": "forsaken:homes/cellar/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/snowy/big4",
                 "processors": "forsaken:homes/cellar/snowy",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"

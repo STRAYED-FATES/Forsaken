@@ -1,0 +1,22 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "projection": "rigid",
+                "element_type": "minecraft:feature_pool_element",
+                "feature": {
+                    "feature": "minecraft:lake_lava",
+                    "placement": [
+                        {
+                          "type": "minecraft:random_offset",
+                          "xz_spread": -8,
+                          "y_spread": 0
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -799,10 +799,49 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:birch_slab",
-                        "probability": 0.1
+                        "probability": 0.05
                     },
                     "output_state": {
                         "Name": "minecraft:potted_dead_bush"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:birch_slab",
+                        "probability": 0.05
+                    },
+                    "output_state": {
+                        "Name": "minecraft:potted_cherry_sapling"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:birch_slab",
+                        "probability": 0.05
+                    },
+                    "output_state": {
+                        "Name": "minecraft:potted_dark_oak_sapling"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:birch_slab",
+                        "probability": 0.05
+                    },
+                    "output_state": {
+                        "Name": "minecraft:potted_bamboo"
                     }
                 },
                 {

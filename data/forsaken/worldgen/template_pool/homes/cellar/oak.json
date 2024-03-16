@@ -4,6 +4,15 @@
         {
             "weight": 1,
             "element": {
+                "location": "forsaken:homes/cellar/oak/ladder",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
                 "location": "forsaken:homes/cellar/oak/small1",
                 "processors": "forsaken:homes/cellar/oak",
                 "projection": "rigid",
@@ -85,6 +94,15 @@
         {
             "weight": 1,
             "element": {
+                "location": "forsaken:homes/cellar/oak/medium6",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
                 "location": "forsaken:homes/cellar/oak/big1",
                 "processors": "forsaken:homes/cellar/oak",
                 "projection": "rigid",
@@ -95,6 +113,24 @@
             "weight": 1,
             "element": {
                 "location": "forsaken:homes/cellar/oak/big2",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/big3",
+                "processors": "forsaken:homes/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/cellar/oak/big4",
                 "processors": "forsaken:homes/cellar/oak",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
