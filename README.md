@@ -29,7 +29,7 @@ Structure sets : 9
 *The term "project" refers to the Datapacks/Mods of STRAYED FATES, the term "update" refers to named major updates of one of the projects.*
 ## GENERAL
 **Can this be used in Vanilla and or on a server?**\
-All projects use the Vanilla custom structure system to generate and no modded blocks. Any mod support will simply not apply if you don't have the mods.
+All projects use the Vanilla custom structure system to generate and no modded blocks. It can be used completely server side, meaning you can use it on your own in Singleplayer or install it on your server without other players needing to install it. Any mod support will simply not apply if you don't have the mods.
 
 **What's the difference between the Datapack version and the Mod version?**\
 Content wise, none. The only difference is that the Datapack has to be applied per world while the mod applies to any world of the instance.
