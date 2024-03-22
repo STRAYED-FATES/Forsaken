@@ -1,11 +1,11 @@
 {
     "type": "minecraft:jigsaw",
-    "biomes": "#forsaken:has_structure/homes/oak",
+    "biomes": "#forsaken:has_structure/homes/spruce",
     "step": "surface_structures",
     "spawn_overrides": {},
     "terrain_adaptation": "beard_thin",
-    "start_pool": "forsaken:homes/oak",
-    "size": 7,
+    "start_pool": "forsaken:homes/spruce",
+    "size": 20,
     "start_height": {
         "absolute": 0
     },
