@@ -276,6 +276,15 @@
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
             }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/cellar/31",
+                "processors": "forsaken:homes/decoration/cellar/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
         }
     ]
 }
