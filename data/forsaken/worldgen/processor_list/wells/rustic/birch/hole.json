@@ -27244,7 +27244,7 @@
                     },
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
-                        "block": "minecraft:diorite_strairs",
+                        "block": "minecraft:diorite_stairs",
                         "probability": 0.4
                     },
                     "output_state": {

@@ -90,6 +90,24 @@
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"
             }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/spruce/big/hole/end/10",
+                "processors": "forsaken:wells/rustic/spruce/hole",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/spruce/big/hole/end/11",
+                "processors": "forsaken:wells/rustic/spruce/hole",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
         }
     ]
 }

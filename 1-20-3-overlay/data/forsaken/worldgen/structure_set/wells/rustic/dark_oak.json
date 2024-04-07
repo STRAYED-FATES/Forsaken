@@ -1,11 +1,11 @@
 {
     "type": "minecraft:jigsaw",
-    "biomes": "#forsaken:has_structure/wells/oriental",
+    "biomes": "#forsaken:has_structure/wells/rustic/dark_oak",
     "step": "surface_structures",
     "spawn_overrides": {},
     "terrain_adaptation": "beard_thin",
-    "start_pool": "forsaken:wells/mud/base",
-    "size": 7,
+    "start_pool": "forsaken:wells/rustic/dark_oak/base",
+    "size": 20,
     "start_height": {
         "absolute": 0
     },
