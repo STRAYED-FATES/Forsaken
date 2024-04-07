@@ -1,0 +1,14 @@
+{
+    "fallback": "forsaken:homes/decoration/oak/chimney/cobble/end",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oak/chimney/cobble/end",
+                "processors": "forsaken:homes/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "fallback": "forsaken:homes/decoration/oak/chimney/bricks/end",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/oak/chimney/bricks/flue",
+                "processors": "forsaken:homes/oak",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "fallback": "forsaken:homes/decoration/spruce/chimney/bricks/end",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/spruce/chimney/bricks/end",
+                "processors": "forsaken:homes/spruce",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

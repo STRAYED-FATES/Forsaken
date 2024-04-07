@@ -1,0 +1,14 @@
+{
+    "fallback": "forsaken:homes/decoration/snowy/chimney/cobble/end",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:homes/decoration/snowy/chimney/cobble/end",
+                "processors": "forsaken:homes/snowy",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}
