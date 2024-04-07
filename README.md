@@ -29,26 +29,21 @@ Structure sets : 9
 <summary><b>Wells</b></summary>
 
 Structure sets : 5
-<details>
-<summary><b>- Rustic: 61732~*</b></summary>
-- Spruce: 15433* variants
-- Oak: 15433* variants
-- Birch: 15433* variants
-- Dark Oak: 15433* variants
-</details>
+- Rustic: 61732~*
+    - Spruce: 15433* variants
+    - Oak: 15433* variants
+    - Birch: 15433* variants
+    - Dark Oak: 15433* variants
 - Oriental: 979* variants
 - Mud: 15 variants
-<details>
-<summary><b>- Pit: 8 variants</b></summary>
-- Cobble: 4 variants
-- Mud: 4 variants
-</details>
-<details>
-<summary><b>- Pump: 23 variants</b></summary>
-- Cobble: 9 variants
-- Mud: 9 variants
-- Bamboo: 5 variants
-</details>
+- Pit: 8 variants
+    - Cobble: 4 variants
+    - Mud: 4 variants
+- Pump: 23 variants
+    - Cobble: 9 variants
+    - Mud: 9 variants
+    - Bamboo: 5 variants\
+*Calculated on the number of necessary jigsaw pieces variants that can be combined
 </details>
 
 # FAQ
