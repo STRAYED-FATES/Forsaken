@@ -1,0 +1,23 @@
+{
+    "fallback": "forsaken:wells/mud/small/hole/end",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/mud/small/hole/empty",
+                "processors": "forsaken:wells/mud/hole",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/mud/small/hole/end/1",
+                "processors": "forsaken:wells/mud/hole",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

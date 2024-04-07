@@ -1,0 +1,16 @@
+{
+    "fallback": "forsaken:wells/feature/seagrass_short",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "projection": "rigid",
+                "element_type": "minecraft:feature_pool_element",
+                "feature": {
+                    "feature": "minecraft:seagrass_short",
+                    "placement": []
+                }
+            }
+        }
+    ]
+}

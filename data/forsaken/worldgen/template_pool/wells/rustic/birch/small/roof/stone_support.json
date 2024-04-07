@@ -1,0 +1,131 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/1",
+                "processors": "forsaken:wells/rustic/birch/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/2",
+                "processors": "forsaken:wells/rustic/birch/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/3",
+                "processors": "forsaken:wells/rustic/birch/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/4",
+                "processors": "forsaken:wells/rustic/birch/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/5",
+                "processors": "forsaken:wells/rustic/birch/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/6",
+                "processors": "forsaken:wells/rustic/birch/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/7",
+                "processors": "forsaken:wells/rustic/birch/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/1",
+                "processors": "forsaken:wells/rustic/birch/bricks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/2",
+                "processors": "forsaken:wells/rustic/birch/bricks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/3",
+                "processors": "forsaken:wells/rustic/birch/bricks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/4",
+                "processors": "forsaken:wells/rustic/birch/bricks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/5",
+                "processors": "forsaken:wells/rustic/birch/bricks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/6",
+                "processors": "forsaken:wells/rustic/birch/bricks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/birch/small/roof/stone_support/7",
+                "processors": "forsaken:wells/rustic/birch/bricks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        }
+    ]
+}

@@ -1,0 +1,851 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/no_roof/1a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/no_roof/1b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/no_roof/2",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/no_roof/3",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/no_roof/4a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/no_roof/4b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/no_roof/5a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/no_roof/5b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/no_roof/6a",
+                "processors": "forsaken:wells/rustic/dark_oak/planks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/no_roof/6b",
+                "processors": "forsaken:wells/rustic/dark_oak/planks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/1a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/1b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/2a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/2b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/3a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/3b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/4a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/4b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/5a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/5b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/6a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/random_roof/6b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/1a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/1b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/2a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/2b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/3a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/3b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/4a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/4b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/5a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/5b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/6a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/6b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/7a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/7b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/8a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/8b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/9a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/9b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/10a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/stone_support/10b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/1a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/1b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/2a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/2b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/3a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/3b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/4a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/4b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/5a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/5b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/6a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/6b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/7a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/7b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/8a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/8b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/9a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/big/base/wood_support/9b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/no_roof/1a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/no_roof/1b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/no_roof/2a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/no_roof/2b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/no_roof/3",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/no_roof/4",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/no_roof/5",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/random_roof/1a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/random_roof/1b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/1a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/1b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/2a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/2b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/3a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/3b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/4a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/4b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/5a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/5b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/6a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/6b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/stone_support/10b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/1a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/1b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/2a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/2b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/3a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/3b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/4a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/4b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/5a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/5b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/6a",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/dark_oak/small/base/wood_support/6b",
+                "processors": "forsaken:wells/rustic/dark_oak/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}
