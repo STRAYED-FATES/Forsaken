@@ -25,6 +25,32 @@ Structure sets : 9
 *Cellar
 </details>
 
+<details>
+<summary><b>Wells</b></summary>
+
+Structure sets : 5
+<details>
+<summary><b>- Rustic: 61732~*</b></summary>
+- Spruce: 15433* variants
+- Oak: 15433* variants
+- Birch: 15433* variants
+- Dark Oak: 15433* variants
+</details>
+- Oriental: 979* variants
+- Mud: 15 variants
+<details>
+<summary><b>- Pit: 8 variants</b></summary>
+- Cobble: 4 variants
+- Mud: 4 variants
+</details>
+<details>
+<summary><b>- Pump: 23 variants</b></summary>
+- Cobble: 9 variants
+- Mud: 9 variants
+- Bamboo: 5 variants
+</details>
+</details>
+
 # FAQ
 *The term "project" refers to the Datapacks/Mods of STRAYED FATES, the term "update" refers to named major updates of one of the projects.*
 ## GENERAL
