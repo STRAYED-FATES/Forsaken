@@ -1,0 +1,32 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/roof/1",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/roof/2",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/roof/3",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "projection": "rigid",
+                "element_type": "minecraft:empty_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/mud/small/hole/end/water/1",
+                "processors": "forsaken:wells/mud/hole",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/mud/small/hole/end/water/2",
+                "processors": "forsaken:wells/mud/hole",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/mud/small/hole/end/water/3",
+                "processors": "forsaken:wells/mud/hole",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/mud/small/hole/end/water/4",
+                "processors": "forsaken:wells/mud/hole",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

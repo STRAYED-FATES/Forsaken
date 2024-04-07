@@ -1,0 +1,131 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/1",
+                "processors": "forsaken:wells/rustic/oak/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/2",
+                "processors": "forsaken:wells/rustic/oak/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/3",
+                "processors": "forsaken:wells/rustic/oak/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/4",
+                "processors": "forsaken:wells/rustic/oak/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/5",
+                "processors": "forsaken:wells/rustic/oak/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/6",
+                "processors": "forsaken:wells/rustic/oak/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/7",
+                "processors": "forsaken:wells/rustic/oak/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/1",
+                "processors": "forsaken:wells/rustic/oak/planks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/2",
+                "processors": "forsaken:wells/rustic/oak/planks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/3",
+                "processors": "forsaken:wells/rustic/oak/planks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/4",
+                "processors": "forsaken:wells/rustic/oak/planks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/5",
+                "processors": "forsaken:wells/rustic/oak/planks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/6",
+                "processors": "forsaken:wells/rustic/oak/planks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/oak/small/roof/wood_support/7",
+                "processors": "forsaken:wells/rustic/oak/planks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+            }
+        }
+    ]
+}

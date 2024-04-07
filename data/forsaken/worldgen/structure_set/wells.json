@@ -1,0 +1,51 @@
+{
+    "structures": [
+        {
+            "structure": "forsaken:wells/rustic/spruce",
+            "weight": 1
+        },
+        {
+            "structure": "forsaken:wells/rustic/oak",
+            "weight": 1
+        },
+        {
+            "structure": "forsaken:wells/rustic/dark_oak",
+            "weight": 1
+        },
+        {
+            "structure": "forsaken:wells/rustic/birch",
+            "weight": 1
+        },
+        {
+            "structure": "forsaken:wells/pit/cobble",
+            "weight": 1
+        },
+        {
+            "structure": "forsaken:wells/pit/mud",
+            "weight": 1
+        },
+        {
+            "structure": "forsaken:wells/oriental",
+            "weight": 1
+        },
+        {
+            "structure": "forsaken:wells/mud",
+            "weight": 1
+        },
+        {
+            "structure": "forsaken:wells/pump/cobble",
+            "weight": 1
+        },
+        {
+            "structure": "forsaken:wells/pump/mud",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "frequency": 0.0025,
+        "spacing": 5,
+        "separation": 2,
+        "salt": 5346557894
+    }
+}

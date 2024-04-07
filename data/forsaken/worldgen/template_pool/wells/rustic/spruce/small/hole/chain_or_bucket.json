@@ -1,0 +1,23 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/spruce/small/hole/chain",
+                "processors": "forsaken:wells/rustic/spruce/hole",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/rustic/spruce/small/hole/bucket",
+                "processors": "forsaken:wells/rustic/spruce/hole",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

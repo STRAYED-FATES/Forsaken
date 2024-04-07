@@ -1,0 +1,1204 @@
+{
+    "processors": [
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.1
+                    },
+                    "output_state": {
+                        "Name": "minecraft:rooted_dirt",
+                        "Properties": {
+                            "snowy": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:dirt",
+                        "Properties": {
+                            "snowy": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.25
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_slab",
+                        "Properties": {
+                            "type": "bottom",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "bottom",
+                            "shape": "outer_right",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "bottom",
+                            "shape": "outer_right",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "bottom",
+                            "shape": "outer_right",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "bottom",
+                            "shape": "outer_right",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "bottom",
+                            "shape": "outer_left",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "bottom",
+                            "shape": "outer_left",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "bottom",
+                            "shape": "outer_left",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:prismarine",
+                        "probability": 0.02
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "bottom",
+                            "shape": "outer_left",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:block_match",
+                        "block": "minecraft:prismarine"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_bricks"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:mossy_cobblestone",
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:dirt"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:block_match",
+                        "block": "minecraft:mossy_cobblestone"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_bricks"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:stone_slab",
+                        "probability": 0.1
+                    },
+                    "output_state": {
+                        "Name": "minecraft:air"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_slab",
+                            "Properties": {
+                                "type": "top",
+                                "waterlogged": "false"
+                            }
+                        }
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_slab",
+                        "Properties": {
+                            "type": "top",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_slab",
+                            "Properties": {
+                                "type": "bottom",
+                                "waterlogged": "false"
+                            }
+                        }
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_slab",
+                        "Properties": {
+                            "type": "bottom",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_slab",
+                            "Properties": {
+                                "type": "double",
+                                "waterlogged": "false"
+                            }
+                        }
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_slab",
+                        "Properties": {
+                            "type": "double",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_slab",
+                            "Properties": {
+                                "type": "top",
+                                "waterlogged": "true"
+                            }
+                        }
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_slab",
+                        "Properties": {
+                            "type": "top",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_slab",
+                            "Properties": {
+                                "type": "bottom",
+                                "waterlogged": "true"
+                            }
+                        }
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_slab",
+                        "Properties": {
+                            "type": "bottom",
+                            "waterlogged": "true"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_slab",
+                            "Properties": {
+                                "type": "double",
+                                "waterlogged": "true"
+                            }
+                        }
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_slab",
+                        "Properties": {
+                            "type": "double",
+                            "waterlogged": "true"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "facing": "north",
+                                "half": "bottom",
+                                "shape": "straight",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "top",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "facing": "north",
+                                "half": "bottom",
+                                "shape": "straight",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "facing": "south",
+                                "half": "bottom",
+                                "shape": "straight",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "top",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "facing": "south",
+                                "half": "bottom",
+                                "shape": "straight",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "facing": "west",
+                                "half": "bottom",
+                                "shape": "straight",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "top",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "facing": "west",
+                                "half": "bottom",
+                                "shape": "straight",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "facing": "east",
+                                "half": "bottom",
+                                "shape": "straight",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "top",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "facing": "east",
+                                "half": "bottom",
+                                "shape": "straight",
+                                "waterlogged": "false"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "bottom",
+                            "shape": "straight",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_right",
+                                "waterlogged": "false",
+                                "facing": "north"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "top",
+                            "shape": "inner_right",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_right",
+                                "waterlogged": "false",
+                                "facing": "south"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "top",
+                            "shape": "inner_right",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_right",
+                                "waterlogged": "false",
+                                "facing": "west"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "top",
+                            "shape": "inner_right",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_right",
+                                "waterlogged": "false",
+                                "facing": "east"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "top",
+                            "shape": "inner_right",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_right",
+                                "waterlogged": "false",
+                                "facing": "north"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "bottom",
+                            "shape": "inner_right",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_right",
+                                "waterlogged": "false",
+                                "facing": "south"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "bottom",
+                            "shape": "inner_right",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_right",
+                                "waterlogged": "false",
+                                "facing": "west"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "bottom",
+                            "shape": "inner_right",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_right",
+                                "waterlogged": "false",
+                                "facing": "east"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "bottom",
+                            "shape": "inner_right",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_left",
+                                "waterlogged": "false",
+                                "facing": "north"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "top",
+                            "shape": "inner_left",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_left",
+                                "waterlogged": "false",
+                                "facing": "south"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "top",
+                            "shape": "inner_left",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_left",
+                                "waterlogged": "false",
+                                "facing": "west"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "top",
+                            "shape": "inner_left",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_left",
+                                "waterlogged": "false",
+                                "facing": "east"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "top",
+                            "shape": "inner_left",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_left",
+                                "waterlogged": "false",
+                                "facing": "north"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "north",
+                            "half": "bottom",
+                            "shape": "inner_left",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_left",
+                                "waterlogged": "false",
+                                "facing": "south"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "south",
+                            "half": "bottom",
+                            "shape": "inner_left",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_left",
+                                "waterlogged": "false",
+                                "facing": "west"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "west",
+                            "half": "bottom",
+                            "shape": "inner_left",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_blockstate_match",
+                        "block_state": {
+                            "Name": "minecraft:stone_stairs",
+                            "Properties": {
+                                "half": "bottom",
+                                "shape": "inner_left",
+                                "waterlogged": "false",
+                                "facing": "east"
+                            }
+                        },
+                        "probability": 0.2
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_brick_stairs",
+                        "Properties": {
+                            "facing": "east",
+                            "half": "bottom",
+                            "shape": "inner_left",
+                            "waterlogged": "false"
+                        }
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:block_match",
+                        "block": "minecraft:stone_stairs"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_bricks"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:block_match",
+                        "block": "minecraft:cobblestone"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mud_bricks"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:mud_bricks",
+                        "probability": 0.4
+                    },
+                    "output_state": {
+                        "Name": "minecraft:packed_mud"
+                    }
+                },
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:mud_brick_stairs",
+                        "probability": 0.4
+                    },
+                    "output_state": {
+                        "Name": "minecraft:packed_mud"
+                    }
+                }
+            ]
+        },
+        {
+            "processor_type": "minecraft:rule",
+            "rules": [
+                {
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "input_predicate": {
+                        "predicate_type": "minecraft:random_block_match",
+                        "block": "minecraft:mud_bricks",
+                        "probability": 0.25
+                    },
+                    "output_state": {
+                        "Name": "minecraft:rooted_dirt"
+                    }
+                }
+            ]
+        }
+    ]
+}
