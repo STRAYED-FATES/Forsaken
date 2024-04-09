@@ -21,7 +21,8 @@ Structure sets : 9
 - Bricks: 9+(9x14*) variants
 - Mud: 9 variants
 - Oriental: 9 variants
-- Turf: 9 variants\
+- Turf: 9 variants
+
 *Cellar
 </details>
 
@@ -42,7 +43,8 @@ Structure sets : 5
 - Pump: 23 variants
     - Cobble: 9 variants
     - Mud: 9 variants
-    - Bamboo: 5 variants\
+    - Bamboo: 5 variants
+
 *Calculated on the number of necessary jigsaw pieces variants that can be combined
 </details>
 
