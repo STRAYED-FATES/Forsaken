@@ -27047,7 +27047,7 @@
                     "input_predicate": {
                         "predicate_type": "minecraft:random_block_match",
                         "block": "minecraft:bricks",
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite"
@@ -27066,7 +27066,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_slab",
@@ -27089,7 +27089,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_slab",
@@ -27112,7 +27112,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_slab",
@@ -27135,7 +27135,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_slab",
@@ -27158,7 +27158,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_slab",
@@ -27181,7 +27181,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_slab",
@@ -27206,7 +27206,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27233,7 +27233,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27260,7 +27260,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27287,7 +27287,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27314,7 +27314,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27341,7 +27341,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27368,7 +27368,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27395,7 +27395,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27422,7 +27422,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27449,7 +27449,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27476,7 +27476,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27503,7 +27503,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27530,7 +27530,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27557,7 +27557,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27584,7 +27584,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27611,7 +27611,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27638,7 +27638,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27665,7 +27665,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27692,7 +27692,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27719,7 +27719,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27746,7 +27746,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27773,7 +27773,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27800,7 +27800,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27827,7 +27827,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27854,7 +27854,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27881,7 +27881,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27908,7 +27908,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27935,7 +27935,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27962,7 +27962,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -27989,7 +27989,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28016,7 +28016,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28043,7 +28043,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28070,7 +28070,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28097,7 +28097,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28124,7 +28124,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28151,7 +28151,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28178,7 +28178,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28205,7 +28205,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28232,7 +28232,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28259,7 +28259,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28286,7 +28286,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28313,7 +28313,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28340,7 +28340,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28367,7 +28367,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28394,7 +28394,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28421,7 +28421,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28448,7 +28448,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28475,7 +28475,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28502,7 +28502,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28529,7 +28529,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28556,7 +28556,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28583,7 +28583,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28610,7 +28610,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28637,7 +28637,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28664,7 +28664,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28691,7 +28691,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28718,7 +28718,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28745,7 +28745,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28772,7 +28772,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28799,7 +28799,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28826,7 +28826,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28853,7 +28853,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28880,7 +28880,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28907,7 +28907,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28934,7 +28934,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28961,7 +28961,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -28988,7 +28988,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29015,7 +29015,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29042,7 +29042,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29069,7 +29069,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29096,7 +29096,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29123,7 +29123,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29150,7 +29150,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29177,7 +29177,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29204,7 +29204,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29231,7 +29231,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29258,7 +29258,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29285,7 +29285,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29312,7 +29312,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29339,7 +29339,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29366,7 +29366,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29393,7 +29393,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29420,7 +29420,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29447,7 +29447,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29474,7 +29474,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29501,7 +29501,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29528,7 +29528,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29555,7 +29555,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29582,7 +29582,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29609,7 +29609,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29636,7 +29636,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29663,7 +29663,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29690,7 +29690,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29717,7 +29717,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29744,7 +29744,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29771,7 +29771,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29798,7 +29798,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29825,7 +29825,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29852,7 +29852,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29879,7 +29879,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29906,7 +29906,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29933,7 +29933,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29960,7 +29960,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -29987,7 +29987,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30014,7 +30014,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30041,7 +30041,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30068,7 +30068,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30095,7 +30095,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30122,7 +30122,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30149,7 +30149,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30176,7 +30176,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30203,7 +30203,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30230,7 +30230,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30257,7 +30257,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30284,7 +30284,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30311,7 +30311,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30338,7 +30338,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30365,7 +30365,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30392,7 +30392,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30419,7 +30419,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30446,7 +30446,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30473,7 +30473,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30500,7 +30500,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30527,7 +30527,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30554,7 +30554,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30581,7 +30581,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30608,7 +30608,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30635,7 +30635,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30662,7 +30662,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30689,7 +30689,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30716,7 +30716,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30743,7 +30743,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30770,7 +30770,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30797,7 +30797,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30824,7 +30824,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30851,7 +30851,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30878,7 +30878,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30905,7 +30905,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30932,7 +30932,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30959,7 +30959,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -30986,7 +30986,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -31013,7 +31013,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -31040,7 +31040,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -31067,7 +31067,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_stairs",
@@ -31096,7 +31096,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31127,7 +31127,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31158,7 +31158,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31189,7 +31189,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31220,7 +31220,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31251,7 +31251,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31282,7 +31282,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31313,7 +31313,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31344,7 +31344,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31375,7 +31375,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31406,7 +31406,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31437,7 +31437,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31468,7 +31468,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31499,7 +31499,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31530,7 +31530,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31561,7 +31561,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31592,7 +31592,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31623,7 +31623,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31654,7 +31654,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31685,7 +31685,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31716,7 +31716,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31747,7 +31747,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31778,7 +31778,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31809,7 +31809,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31840,7 +31840,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31871,7 +31871,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31902,7 +31902,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31933,7 +31933,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31964,7 +31964,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -31995,7 +31995,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32026,7 +32026,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32057,7 +32057,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32088,7 +32088,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32119,7 +32119,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32150,7 +32150,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32181,7 +32181,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32212,7 +32212,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32243,7 +32243,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32274,7 +32274,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32305,7 +32305,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32336,7 +32336,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32367,7 +32367,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32398,7 +32398,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32429,7 +32429,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32460,7 +32460,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32491,7 +32491,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32522,7 +32522,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32553,7 +32553,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32584,7 +32584,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32615,7 +32615,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32646,7 +32646,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32677,7 +32677,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32708,7 +32708,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32739,7 +32739,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32770,7 +32770,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32801,7 +32801,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32832,7 +32832,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32863,7 +32863,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32894,7 +32894,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32925,7 +32925,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32956,7 +32956,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -32987,7 +32987,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33018,7 +33018,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33049,7 +33049,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33080,7 +33080,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33111,7 +33111,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33142,7 +33142,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33173,7 +33173,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33204,7 +33204,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33235,7 +33235,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33266,7 +33266,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33297,7 +33297,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33328,7 +33328,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33359,7 +33359,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33390,7 +33390,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33421,7 +33421,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33452,7 +33452,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33483,7 +33483,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33514,7 +33514,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33545,7 +33545,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33576,7 +33576,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33607,7 +33607,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33638,7 +33638,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33669,7 +33669,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33700,7 +33700,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33731,7 +33731,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33762,7 +33762,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33793,7 +33793,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33824,7 +33824,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33855,7 +33855,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33886,7 +33886,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33917,7 +33917,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33948,7 +33948,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -33979,7 +33979,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34010,7 +34010,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34041,7 +34041,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34072,7 +34072,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34103,7 +34103,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34134,7 +34134,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34165,7 +34165,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34196,7 +34196,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34227,7 +34227,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34258,7 +34258,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34289,7 +34289,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34320,7 +34320,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34351,7 +34351,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34382,7 +34382,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34413,7 +34413,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34444,7 +34444,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34475,7 +34475,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34506,7 +34506,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34537,7 +34537,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34568,7 +34568,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34599,7 +34599,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34630,7 +34630,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34661,7 +34661,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34692,7 +34692,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34723,7 +34723,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34754,7 +34754,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34785,7 +34785,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34816,7 +34816,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34847,7 +34847,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34878,7 +34878,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34909,7 +34909,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34940,7 +34940,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -34971,7 +34971,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35002,7 +35002,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35033,7 +35033,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35064,7 +35064,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35095,7 +35095,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35126,7 +35126,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35157,7 +35157,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35188,7 +35188,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35219,7 +35219,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35250,7 +35250,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35281,7 +35281,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35312,7 +35312,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35343,7 +35343,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35374,7 +35374,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35405,7 +35405,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35436,7 +35436,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35467,7 +35467,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35498,7 +35498,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35529,7 +35529,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35560,7 +35560,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35591,7 +35591,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35622,7 +35622,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35653,7 +35653,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35684,7 +35684,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35715,7 +35715,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35746,7 +35746,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35777,7 +35777,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35808,7 +35808,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35839,7 +35839,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35870,7 +35870,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35901,7 +35901,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35932,7 +35932,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35963,7 +35963,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -35994,7 +35994,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36025,7 +36025,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36056,7 +36056,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36087,7 +36087,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36118,7 +36118,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36149,7 +36149,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36180,7 +36180,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36211,7 +36211,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36242,7 +36242,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36273,7 +36273,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36304,7 +36304,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36335,7 +36335,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36366,7 +36366,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36397,7 +36397,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36428,7 +36428,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36459,7 +36459,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36490,7 +36490,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36521,7 +36521,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36552,7 +36552,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36583,7 +36583,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36614,7 +36614,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36645,7 +36645,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36676,7 +36676,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36707,7 +36707,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36738,7 +36738,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36769,7 +36769,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36800,7 +36800,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36831,7 +36831,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36862,7 +36862,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36893,7 +36893,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36924,7 +36924,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36955,7 +36955,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -36986,7 +36986,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37017,7 +37017,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37048,7 +37048,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37079,7 +37079,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37110,7 +37110,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37141,7 +37141,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37172,7 +37172,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37203,7 +37203,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37234,7 +37234,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37265,7 +37265,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37296,7 +37296,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37327,7 +37327,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37358,7 +37358,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37389,7 +37389,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37420,7 +37420,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37451,7 +37451,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37482,7 +37482,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37513,7 +37513,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37544,7 +37544,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37575,7 +37575,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37606,7 +37606,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37637,7 +37637,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37668,7 +37668,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37699,7 +37699,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37730,7 +37730,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37761,7 +37761,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37792,7 +37792,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37823,7 +37823,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37854,7 +37854,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37885,7 +37885,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37916,7 +37916,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37947,7 +37947,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -37978,7 +37978,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38009,7 +38009,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38040,7 +38040,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38071,7 +38071,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38102,7 +38102,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38133,7 +38133,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38164,7 +38164,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38195,7 +38195,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38226,7 +38226,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38257,7 +38257,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38288,7 +38288,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38319,7 +38319,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38350,7 +38350,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38381,7 +38381,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38412,7 +38412,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38443,7 +38443,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38474,7 +38474,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38505,7 +38505,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38536,7 +38536,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38567,7 +38567,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38598,7 +38598,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38629,7 +38629,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38660,7 +38660,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38691,7 +38691,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38722,7 +38722,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38753,7 +38753,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38784,7 +38784,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38815,7 +38815,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38846,7 +38846,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38877,7 +38877,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38908,7 +38908,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38939,7 +38939,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -38970,7 +38970,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39001,7 +39001,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39032,7 +39032,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39063,7 +39063,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39094,7 +39094,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39125,7 +39125,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39156,7 +39156,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39187,7 +39187,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39218,7 +39218,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39249,7 +39249,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39280,7 +39280,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39311,7 +39311,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39342,7 +39342,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39373,7 +39373,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39404,7 +39404,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39435,7 +39435,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39466,7 +39466,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39497,7 +39497,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39528,7 +39528,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39559,7 +39559,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39590,7 +39590,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39621,7 +39621,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39652,7 +39652,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39683,7 +39683,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39714,7 +39714,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39745,7 +39745,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39776,7 +39776,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39807,7 +39807,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39838,7 +39838,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39869,7 +39869,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39900,7 +39900,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39931,7 +39931,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39962,7 +39962,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -39993,7 +39993,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40024,7 +40024,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40055,7 +40055,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40086,7 +40086,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40117,7 +40117,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40148,7 +40148,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40179,7 +40179,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40210,7 +40210,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40241,7 +40241,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40272,7 +40272,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40303,7 +40303,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40334,7 +40334,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40365,7 +40365,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40396,7 +40396,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40427,7 +40427,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40458,7 +40458,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40489,7 +40489,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40520,7 +40520,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40551,7 +40551,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40582,7 +40582,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40613,7 +40613,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40644,7 +40644,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40675,7 +40675,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40706,7 +40706,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40737,7 +40737,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40768,7 +40768,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40799,7 +40799,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40830,7 +40830,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40861,7 +40861,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40892,7 +40892,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40923,7 +40923,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40954,7 +40954,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -40985,7 +40985,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -41016,7 +41016,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -41047,7 +41047,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -41078,7 +41078,7 @@
                                 "waterlogged": "false"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",
@@ -41109,7 +41109,7 @@
                                 "waterlogged": "true"
                             }
                         },
-                        "probability": 0.4
+                        "probability": 0.2
                     },
                     "output_state": {
                         "Name": "minecraft:granite_wall",

@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:forest",
+        "minecraft:flower_forest",
+        "minecraft:plains",
+        "minecraft:sunflower_plains",
+        "minecraft:meadow",
+        {
+            "id": "#c:plains",
+            "required": false
+        },
+        {
+            "id": "#forge:is_plains",
+            "required": false
+        },
+        {
+            "id": "terralith:highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:steppe",
+            "required": false
+        }
+    ]
+}

@@ -8,7 +8,14 @@
                 "element_type": "minecraft:feature_pool_element",
                 "feature": {
                     "feature": "minecraft:seagrass_short",
-                    "placement": []
+                    "placement": [
+                        {
+                            "type": "minecraft:random_offset",
+                            "tries": 5,
+                            "xz_spread": 5,
+                            "y_spread": 5
+                        }
+                    ]
                 }
             }
         }

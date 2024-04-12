@@ -39,6 +39,10 @@
         {
             "structure": "forsaken:wells/pump/mud",
             "weight": 1
+        },
+        {
+            "structure": "forsaken:wells/washhouse",
+            "weight": 1
         }
     ],
     "placement": {

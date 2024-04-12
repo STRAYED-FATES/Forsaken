@@ -8,7 +8,14 @@
                 "element_type": "minecraft:feature_pool_element",
                 "feature": {
                     "feature": "minecraft:moss_patch_ceiling",
-                    "placement": []
+                    "placement": [
+                        {
+                            "type": "minecraft:random_offset",
+                            "tries": 5,
+                            "xz_spread": 5,
+                            "y_spread": 5
+                        }
+                    ]
                 }
             }
         }

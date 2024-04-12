@@ -1,0 +1,59 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 2,
+            "element": {
+                "location": "forsaken:wells/washhouse/1a",
+                "processors": "forsaken:wells/washhouse/bricks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "location": "forsaken:wells/washhouse/1b",
+                "processors": "forsaken:wells/washhouse/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/washhouse/2a",
+                "processors": "forsaken:wells/washhouse/bricks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/washhouse/2b",
+                "processors": "forsaken:wells/washhouse/bricks_top",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/washhouse/2a",
+                "processors": "forsaken:wells/washhouse/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/washhouse/2b",
+                "processors": "forsaken:wells/washhouse/cobbled_deepslate_top",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

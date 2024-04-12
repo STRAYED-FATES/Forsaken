@@ -23,7 +23,37 @@
     "forsaken:homes/turf": {
         "item": "minecraft:tall_grass"
     },
-    "forsaken:homes/western": {
-        "item": "minecraft:lead"
+    "forsaken:wells/rustic/spruce": {
+        "item": "minecraft:spruce_trapdoor"
+    },
+    "forsaken:wells/rustic/oak": {
+        "item": "minecraft:oak_stairs"
+    },
+    "forsaken:wells/rustic/dark_oak": {
+        "item": "minecraft:brick"
+    },
+    "forsaken:wells/rustic/birch": {
+        "item": "minecraft:diorite"
+    },
+    "forsaken:wells/pit/cobble": {
+        "item": "minecraft:water_bucket"
+    },
+    "forsaken:wells/pit/mud": {
+        "item": "minecraft:tadpole_bucket"
+    },
+    "forsaken:wells/oriental": {
+        "item": "minecraft:deepslate_tile_wall"
+    },
+    "forsaken:wells/mud": {
+        "item": "minecraft:mud_brick_wall"
+    },
+    "forsaken:wells/pump/cobble": {
+        "item": "minecraft:polished_blackstone_wall"
+    },
+    "forsaken:wells/pump/mud": {
+        "item": "minecraft:decorated_pot"
+    },
+    "forsaken:wells/washhouse": {
+        "item": "minecraft:wet_sponge"
     }
 }
