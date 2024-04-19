@@ -4,11 +4,19 @@
         "minecraft:cherry_grove",
         "minecraft:sparse_jungle",
         {
-            "id": "terralith:snowy_cherry_grove",
+            "id": "terralith:sakura_valley",
             "required": false
         },
         {
-            "id": "terralith:sakura_valley",
+            "id": "byg:cherry_blossom_forest",
+            "required": false
+        },
+        {
+            "id": "terrestria:japanese_maple_forest",
+            "required": false
+        },
+        {
+            "id": "terrestria:sakura_forest",
             "required": false
         }
     ]

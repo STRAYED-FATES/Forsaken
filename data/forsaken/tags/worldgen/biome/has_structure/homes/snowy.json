@@ -10,6 +10,10 @@
         {
             "id": "terralith:alpine_grove",
             "required": false
+        },
+        {
+            "id": "regions_unexplored:frozen_tundra",
+            "required": false
         }
     ]
 }

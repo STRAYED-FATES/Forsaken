@@ -27,6 +27,18 @@
         {
             "id": "terralith:steppe",
             "required": false
+        },
+        {
+            "id": "terralith:yosemite_lowlands",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:maple_forest",
+            "required": false
+        },
+        {
+            "id": "byg:borealis_grove",
+            "required": false
         }
     ]
 }

@@ -17,6 +17,34 @@
             "required": false
         },
         {
+            "id": "regions_unexplored:silver_birch_forest",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:temperate_grove",
+            "required": false
+        },
+        {
+            "id": "byg:aspen_forest",
+            "required": false
+        },
+        {
+            "id": "byg:aspen_clearing",
+            "required": false
+        },
+        {
+            "id": "byg:temperate_grove",
+            "required": false
+        },
+        {
+            "id": "byg:red_oak_forest",
+            "required": false
+        },
+        {
+            "id": "byg:borealis_grove",
+            "required": false
+        },
+        {
             "id": "#c:birch_forest",
             "required": false
         }

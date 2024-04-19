@@ -9,6 +9,50 @@
         "minecraft:plains",
         "minecraft:sunflower_plains",
         {
+            "id": "terrestria:cypress_forest",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:grassland",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:shrubland",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:autumnal_maple_forest",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:maple_forest",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:orchard",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:deciduous_forest",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:temperate_grove",
+            "required": false
+        },
+        {
+            "id": "byg:orchard",
+            "required": false
+        },
+        {
+            "id": "byg:red_oak_forest",
+            "required": false
+        },
+        {
+            "id": "byg:autumnal_forest",
+            "required": false
+        },
+        {
             "id": "#c:plains",
             "required": false
         },

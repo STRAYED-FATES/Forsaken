@@ -13,6 +13,14 @@
         {
             "id": "terralith:steppe",
             "required": false
+        },
+        {
+            "id": "regions_unexplored:grassland",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:shrubland",
+            "required": false
         }
     ]
 }
