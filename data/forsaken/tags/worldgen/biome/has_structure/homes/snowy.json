@@ -14,6 +14,10 @@
         {
             "id": "regions_unexplored:frozen_tundra",
             "required": false
+        },
+        {
+            "id": "biomesoplenty:snowy_fir_clearing",
+            "required": false
         }
     ]
 }

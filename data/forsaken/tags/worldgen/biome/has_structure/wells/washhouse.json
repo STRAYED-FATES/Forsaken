@@ -35,6 +35,14 @@
             "required": false
         },
         {
+            "id": "regions_unexplored:grassland",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:shrubland",
+            "required": false
+        },
+        {
             "id": "byg:orchard",
             "required": false
         },
@@ -47,11 +55,35 @@
             "required": false
         },
         {
-            "id": "regions_unexplored:grassland",
+            "id": "biomesoplenty:woodland",
             "required": false
         },
         {
-            "id": "regions_unexplored:shrubland",
+            "id": "biomesoplenty:old_growth_woodland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:grassland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:clover_patch",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:lavender_field",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:aspen_glade",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:seasonal_orchard",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:seasonal_forest",
             "required": false
         },
         {

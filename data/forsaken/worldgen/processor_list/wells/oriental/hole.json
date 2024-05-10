@@ -1216,7 +1216,7 @@
                         "block": "minecraft:stripped_spruce_wood"
                     },
                     "output_state": {
-                        "Name": "minecraft:mud_brick"
+                        "Name": "minecraft:mud_bricks"
                     }
                 }
             ]

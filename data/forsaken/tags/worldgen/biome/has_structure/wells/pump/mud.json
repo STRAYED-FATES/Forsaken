@@ -14,6 +14,10 @@
             "required": false
         },
         {
+            "id": "biomesoplenty:lush_desert",
+            "required": false
+        },
+        {
             "id": "#minecraft:is_savanna",
             "required": false
         },

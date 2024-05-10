@@ -34,6 +34,14 @@
         {
             "id": "byg:autumnal_forest",
             "required": false
+        },
+        {
+            "id": "biomesoplenty:woodland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:old_growth_woodland",
+            "required": false
         }
     ]
 }

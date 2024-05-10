@@ -53,6 +53,38 @@
             "required": false
         },
         {
+            "id": "biomesoplenty:woodland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:old_growth_woodland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:grassland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:clover_patch",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:lavender_field",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:aspen_glade",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:seasonal_orchard",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:seasonal_forest",
+            "required": false
+        },
+        {
             "id": "#c:plains",
             "required": false
         },

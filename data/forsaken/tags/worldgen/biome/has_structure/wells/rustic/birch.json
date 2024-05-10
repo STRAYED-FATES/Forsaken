@@ -45,6 +45,18 @@
             "required": false
         },
         {
+            "id": "biomesoplenty:aspen_glade",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:seasonal_orchard",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:seasonal_forest",
+            "required": false
+        },
+        {
             "id": "#c:birch_forest",
             "required": false
         }
