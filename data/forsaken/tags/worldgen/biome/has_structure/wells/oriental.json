@@ -41,6 +41,14 @@
         {
             "id": "biomesoplenty:maple_woods",
             "required": false
+        },
+        {
+            "id": "natures_spirit:sugi_forest",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:blooming_sugi_forest",
+            "required": false
         }
     ]
 }

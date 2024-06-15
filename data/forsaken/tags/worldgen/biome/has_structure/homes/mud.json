@@ -18,6 +18,26 @@
             "required": false
         },
         {
+            "id": "natures_spirit:wooded_drylands",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:arid_savanna",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:savanna",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:shrubland",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:chaparral",
+            "required": false
+        },
+        {
             "id": "#minecraft:is_savanna",
             "required": false
         },

@@ -19,6 +19,10 @@
             "required": false
         },
         {
+            "id": "natures_spirit:drylands",
+            "required": false
+        },
+        {
             "id": "#c:desert",
             "required": false
         },

@@ -57,6 +57,14 @@
             "required": false
         },
         {
+            "id": "natures_spirit:aspen_forest",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:marigold_meadows",
+            "required": false
+        },
+        {
             "id": "#c:birch_forest",
             "required": false
         }

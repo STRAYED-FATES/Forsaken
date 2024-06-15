@@ -42,6 +42,14 @@
         {
             "id": "biomesoplenty:old_growth_woodland",
             "required": false
+        },
+        {
+            "id": "natures_spirit:shrubby_highlands",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:cypress_fields",
+            "required": false
         }
     ]
 }

@@ -55,6 +55,38 @@
         {
             "id": "biomesoplenty:tundra",
             "required": false
+        },
+        {
+            "id": "natures_spirit:golden_wilds",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:maple_woodlands",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:fir_forest",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:redwood_forests",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:coniferous_coverts",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:alpine_clearings",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:prairie",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:woody_highlands",
+            "required": false
         }
     ]
 }
