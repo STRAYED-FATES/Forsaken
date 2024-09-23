@@ -1,0 +1,28 @@
+modLoader="lowcodefml"
+loaderVersion="[40,)"
+license="LicenseRef-All-Rights-Reserved"
+showAsResourcePack = false
+issueTrackerURL="https://github.com/STRAYED-FATES/Forsaken/issues"
+
+[[mods]]
+    modId="strayed_fates_forsaken"
+    version="2.0.0.1"
+    displayName="STRAYED FATES: Forsaken"
+    displayURL="https://modrinth.com/datapack/strayed-fates-forsaken"
+    logoFile="pack.png"
+    authors="TeraBuildsStuff"
+    description="A collection of detailed abandoned Vanilla-friendly structures"
+    updateJSONURL="https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json"
+
+[[dependencies.strayed_fates_forsaken]]
+    modId="neoforge"
+    mandatory=false
+    versionRange="[21.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.strayed_fates_forsaken]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21,)"
+    ordering="NONE"
+    side="BOTH"

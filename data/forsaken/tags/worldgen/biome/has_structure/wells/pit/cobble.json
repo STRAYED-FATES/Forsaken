@@ -41,15 +41,15 @@
             "required": false
         },
         {
-            "id": "byg:orchard",
+            "id": "biomeswevegone:orchard",
             "required": false
         },
         {
-            "id": "byg:red_oak_forest",
+            "id": "biomeswevegone:red_oak_forest",
             "required": false
         },
         {
-            "id": "byg:autumnal_forest",
+            "id": "biomeswevegone:autumnal_forest",
             "required": false
         },
         {
