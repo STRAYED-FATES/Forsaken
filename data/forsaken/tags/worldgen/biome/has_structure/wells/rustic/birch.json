@@ -25,23 +25,23 @@
             "required": false
         },
         {
-            "id": "biomeswevegone:aspen_forest",
+            "id": "byg:aspen_forest",
             "required": false
         },
         {
-            "id": "biomeswevegone:aspen_clearing",
+            "id": "byg:aspen_clearing",
             "required": false
         },
         {
-            "id": "biomeswevegone:temperate_grove",
+            "id": "byg:temperate_grove",
             "required": false
         },
         {
-            "id": "biomeswevegone:red_oak_forest",
+            "id": "byg:red_oak_forest",
             "required": false
         },
         {
-            "id": "biomeswevegone:borealis_grove",
+            "id": "byg:borealis_grove",
             "required": false
         },
         {

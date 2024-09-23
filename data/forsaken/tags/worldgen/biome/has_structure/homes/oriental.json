@@ -11,7 +11,7 @@
             "required": false
         },
         {
-            "id": "biomeswevegone:cherry_blossom_forest",
+            "id": "byg:cherry_blossom_forest",
             "required": false
         },
         {
@@ -19,7 +19,7 @@
             "required": false
         },
         {
-            "id": "biomeswevegone:autumnal_taiga",
+            "id": "byg:autumnal_taiga",
             "required": false
         },
         {
