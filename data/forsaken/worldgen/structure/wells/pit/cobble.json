@@ -1,6 +1,6 @@
 {
     "type": "minecraft:jigsaw",
-    "biomes": "#forsaken:has_structures/wells/pit/cobble",
+    "biomes": "#forsaken:has_structure/wells/pit/cobble",
     "step": "surface_structures",
     "spawn_overrides": {},
     "terrain_adaptation": "beard_thin",
