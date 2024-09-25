@@ -1,0 +1,21 @@
+{
+    "schemaVersion": 1,
+    "id": "strayed_fates_forsaken",
+    "version": "1-v2.0.0.2",
+    "name": "STRAYED FATES: Forsaken",
+    "description": "A collection of detailed abandoned Vanilla-friendly structures",
+    "authors": [
+        "TeraBuildsStuff"
+    ],
+    "contact": {
+        "homepage": "https://modrinth.com/datapack/strayed-fates-forsaken",
+        "sources": "https://github.com/STRAYED-FATES/Forsaken",
+        "issues": "https://github.com/STRAYED-FATES/Forsaken/issues"
+    },
+    "license": "LicenseRef-All-Rights-Reserved",
+    "icon": "pack.png",
+    "environment": "*",
+    "depends": {
+        "fabric-resource-loader-v0": "*"
+    }
+}

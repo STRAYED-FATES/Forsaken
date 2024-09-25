@@ -1,0 +1,302 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/random_roof/1a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/random_roof/1b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/random_roof/2a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/random_roof/2b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/random_roof/3a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/random_roof/3b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/random_roof/4a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/random_roof/4b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/random_roof/5a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/random_roof/5b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/no_roof/1a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/no_roof/1b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/no_roof/2",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/big/base/no_roof/3",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/random_roof/1a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/random_roof/1b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/random_roof/2a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/random_roof/2b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/random_roof/3a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/random_roof/3b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/random_roof/4a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/random_roof/4b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/1a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/1b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/2a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/2b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/4",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/4",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/5",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/6a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/6b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/7a",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/oriental/small/base/no_roof/7b",
+                "processors": "forsaken:wells/oriental/base",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

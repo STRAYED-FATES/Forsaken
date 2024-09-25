@@ -19,6 +19,50 @@
         {
             "id": "terralith:yosemite_lowlands",
             "required": false
+        },
+        {
+            "id": "regions_unexplored:maple_forest",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:borealis_grove",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:bog",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:fir_clearing",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:forested_field",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:golden_wilds",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:maple_woodlands",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:fir_forest",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:redwood_forests",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:coniferous_coverts",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:alpine_clearings",
+            "required": false
         }
     ]
 }

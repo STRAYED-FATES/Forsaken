@@ -1,0 +1,68 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 9,
+            "element": {
+                "location": "forsaken:wells/pit/cobble/medium/hole",
+                "processors": "forsaken:wells/pit/cobble",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/pit/cobble/medium/end/1",
+                "processors": "forsaken:wells/pit/cobble",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/pit/cobble/medium/end/2",
+                "processors": "forsaken:wells/pit/cobble",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/pit/cobble/medium/end/3",
+                "processors": "forsaken:wells/pit/cobble",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/pit/cobble/medium/end/4",
+                "processors": "forsaken:wells/pit/cobble",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/pit/cobble/medium/end/5",
+                "processors": "forsaken:wells/pit/cobble",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "forsaken:wells/pit/cobble/medium/end/6",
+                "processors": "forsaken:wells/pit/cobble",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

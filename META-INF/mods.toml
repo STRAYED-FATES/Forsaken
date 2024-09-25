@@ -1,0 +1,9 @@
+
+modLoader = 'lowcodefml'
+loaderVersion = '[1,)'
+license = 'LicenseRef-All-Rights-Reserved'
+showAsResourcePack = false
+mods = [
+	{ modId = 'strayed_fates_forsaken', version = '1-v2.0.0.2', displayName = 'STRAYED FATES: Forsaken', description = 'A collection of detailed abandoned Vanilla-friendly structures', logoFile = 'pack.png', updateJSONURL = 'https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json', authors = 'TeraBuildsStuff', displayURL = 'https://modrinth.com/datapack/strayed-fates-forsaken' },
+]
+issueTrackerURL = 'https://github.com/STRAYED-FATES/Forsaken/issues'

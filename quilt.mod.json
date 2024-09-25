@@ -1,0 +1,28 @@
+{
+    "schema_version": 1,
+    "quilt_loader": {
+        "id": "strayed_fates_forsaken",
+        "version": "1-v2.0.0.2",
+        "metadata": {
+            "name": "STRAYED FATES: Forsaken",
+            "description": "A collection of detailed abandoned Vanilla-friendly structures",
+            "contributors": {
+                "TeraBuildsStuff": "Dev & Builder"
+            },
+            "contact": {
+                "homepage": "https://modrinth.com/datapack/strayed-fates-forsaken",
+                "sources": "https://github.com/STRAYED-FATES/Forsaken",
+                "issues": "https://github.com/STRAYED-FATES/Forsaken/issues"
+            },
+            "icon": "pack.png"
+        },
+        "intermediate_mappings": "net.fabricmc:intermediary",
+        "depends": [
+            {
+                "id": "quilt_resource_loader",
+                "versions": "*",
+                "unless": "fabric-resource-loader-v0"
+            }
+        ]
+    }
+}

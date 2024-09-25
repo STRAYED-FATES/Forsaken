@@ -1,0 +1,72 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:birch_forest",
+        "minecraft:old_growth_birch_forest",
+        "minecraft:flower_forest",
+        {
+            "id": "terralith:temperate_highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:birch_taiga",
+            "required": false
+        },
+        {
+            "id": "terralith:blooming_plateau",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:silver_birch_forest",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:temperate_grove",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:aspen_forest",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:aspen_clearing",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:temperate_grove",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:red_oak_forest",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:borealis_grove",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:aspen_glade",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:seasonal_orchard",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:seasonal_forest",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:aspen_forest",
+            "required": false
+        },
+        {
+            "id": "natures_spirit:marigold_meadows",
+            "required": false
+        },
+        {
+            "id": "#c:birch_forest",
+            "required": false
+        }
+    ]
+}
