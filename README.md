@@ -82,6 +82,7 @@ No.
 There is no options directly available for the projects, to configure it, you have to open the `.zip` or `.jar`(to open a `.jar`, rename it `.zip`, then rename it `.jar` once you're done) using programs like 7zip or WinRar.
 Note that any update might reset your changes.
 We will not offer support on modified versions of the project nor allow for them to be shared as per the license.
+Alternatively, you can make a Datapack consisting of only the modified basic datapack code and necessary .`mcmeta` file which will override the desired project. This prevent you from breaking the silence incase you're making a modpack; Or use [Structurify](https://modrinth.com/mod/structurify).
 ### Frequency
 To change the frequency/rarity of structures, head to `\data\project\worldgen\structure_set`, and open the desired `.json`. You  can then modify the `frequency`, a value between `1` and `0` corresponding to the chances a structure has to spawn when meeting the other values, the `spacing`, the average distance in chunks the structures of that group will have from each other, and the `separation`, which is the minimum chunks the structures of that group will have from each other.
 ### Disabling
