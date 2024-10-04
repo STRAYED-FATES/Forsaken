@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This is for bug reports only. General support questions should be redirected to our [Discord](https://discord.gg/HQ8Pqk8bUE).
+        This is for bug reports only. Check the project description and FAQ before posting; support questions should be redirected to our [Discord](https://discord.gg/HQ8Pqk8bUE).
   - type: input
     id: mc
     attributes:
