@@ -1,28 +1,17 @@
 name: Bug report
-description: Create a bug report for Stardust Labs projects
+description: Create a bug report for a STRAYED FATES project
 title: "[Bug]"
 labels: [bug]
 body:
   - type: markdown
     attributes:
       value: |
-        This is for bug reports only. General support questions should be redirected to our [Discord](https://www.discord.gg/stardustlabs).
-
-        **Note**: Is your bug about the superflat or other world types? Please read [this](<https://github.com/Stardust-Labs-MC/Terralith/issues/113>) before making an issue.
-  - type: dropdown
+        This is for bug reports only. General support questions should be redirected to our [Discord](https://discord.gg/HQ8Pqk8bUE).
+  - type: input
     id: mc
     attributes:
       label: What Minecraft version(s) does this apply to?
-      multiple: true
-      options:
-        - 1.18.2
-        - 1.19 - 1.19.3
-        - 1.19.4
-        - 1.20 - 1.20.1
-        - 1.20.2
-        - 1.20.3 - 1.20.4
-        - 1.20.5 - 1.20.6
-        - 1.21 - 1.21.1
+      placeholder: ex. 1.8
     validations:
       required: true
   - type: input
@@ -30,7 +19,7 @@ body:
     attributes:
       label: Project version
       description: What version of the project are you using?
-      placeholder: ex. v2.3.7b
+      placeholder: ex. v1.0.0.2
     validations:
       required: true
   - type: dropdown
